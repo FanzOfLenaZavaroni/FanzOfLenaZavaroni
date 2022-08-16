@@ -15,3 +15,8 @@
 <p>It is presented as a series of short notes and comments along with links to related media, blogs, etc. I hope fans will find it of interest and that it helps them on their own discovery of Lena Zavaroni. It's a hard but sometimes happy but also very sad journey into the world of Lena Zavaroni. If you want the fantasy Lena that some fans seem to then you should end your journey here.</p>
 
 <a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni/"><strong>Media Based Biography of Lena Zavaroni</strong></a>
+
+<h3 id="recent-blog-posts"><a href="#recent-blog-posts">Recent Blog Posts</a></h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
