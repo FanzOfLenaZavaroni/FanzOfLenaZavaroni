@@ -1,4 +1,4 @@
-<h3 id="about"><a href="#about">About Lena Zavaroni</a></h3>
+### About Lena Zavaroni
 
 <p><strong>Lena Zavaroni</strong> was a singer who came to the public's attention in 1974 when see appeared on Opportunity Knocks on which she returned five times.</p>
 
@@ -6,7 +6,7 @@
 
 <p>Behind the scenes Lena Zavaroni had a life long fight with her demons, which came out as anorexia from the age of 13 to 15, this then became clinical depression which lasted the rest of her life. The truth is the anorexia also lasted the rest of her life.</p>
 
-<h3 id="introduction"><a href="#introduction">Introduction</a></h3>
+### Introduction
 
 <p>We can never know the true story of Lena Zavaroni's life as it seems to be a closed subject.</p>
 
@@ -16,7 +16,7 @@
 
 <a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni/"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
-<h3 id="recent-blog-posts"><a href="#recent-blog-posts">Recent Blog Posts</a></h3>
+### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Website Updates | 15 August 2022](https://fanzoflenazavaroni.github.io/2022-08-15-Website-updates/)
