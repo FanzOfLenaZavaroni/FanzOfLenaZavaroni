@@ -16,7 +16,7 @@
 
 <a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni/"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
-### Recent Blog Posts
+### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Website Updates | 15 August 2022](https://fanzoflenazavaroni.github.io/2022-08-15-Website-updates/)
