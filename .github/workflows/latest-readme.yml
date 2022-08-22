@@ -1,4 +1,4 @@
-name: Latest Readme update workflow
+name: Latest Readme workflow
 on:
   push:
     branches:
