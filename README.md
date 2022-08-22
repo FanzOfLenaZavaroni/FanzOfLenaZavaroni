@@ -1,3 +1,7 @@
+[![pages-build-deployment](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/pages/pages-build-deployment)
+[![CodeQL](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/codeql-analysis.yml)
+[![Latest Readme update workflow](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/readme-update-workflow.yml/badge.svg)](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/actions/workflows/readme-update-workflow.yml)
+
 ### About Lena Zavaroni
 
 <p><strong>Lena Zavaroni</strong> was a singer who came to the public's attention in 1974 when see appeared on Opportunity Knocks on which she returned five times.</p>
