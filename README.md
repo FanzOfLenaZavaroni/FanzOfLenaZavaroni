@@ -19,7 +19,7 @@
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Website Updates | 22 August 2022](https://fanzoflenazavaroni.github.io/2022-08-22-Website-updates/)
+- [Updates To This Website And/Or Its Repo| 24 August 2022](https://fanzoflenazavaroni.github.io/2022-08-24-Website-updates/)
 - [NewsBank | The Guardian, Web Edition Articles &lpar;London, England&rpar; | 26 February 2020](https://fanzoflenazavaroni.github.io/2022-02-26-Newsbank/)
 - [NewsBank | TheSunday Post &lpar;Dundee, Scotland&rpar; | 30 January 2022](https://fanzoflenazavaroni.github.io/2022-01-30-Newsbank/)
 - [NewsBank | The Guardian, Web Edition Articles &lpar;London, England&rpar; | 8 March 2021](https://fanzoflenazavaroni.github.io/2021-03-08-Newsbank/)
