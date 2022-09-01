@@ -16,7 +16,7 @@
 
 <a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni/"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
-### Recent Commented Files
+### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
 - [Update post.html and 1974-08-31-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2c70789e15bbbaf62c1a273d5288d44bdfddc64a)
