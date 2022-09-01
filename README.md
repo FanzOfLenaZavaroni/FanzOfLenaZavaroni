@@ -19,9 +19,9 @@
 ### Recent Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e14bb44a1f7c4f1202d8ce49419edf75c83b303b)
-- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1e692b4809dbdc1ab504884519d0f319b20c0ab3)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a33681546c01354285ce386717329dd5a047f0c6)
-- [Update README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/098d7c8975df4f8bd028b0cc805c8c39f1cbc647)
-- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5346721025abcb2c1bd1fd9268bcbe9fa153da68)
+- [Update post.html and 1974-08-31-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2c70789e15bbbaf62c1a273d5288d44bdfddc64a)
+- [Update 1980-08-31-the-lena-zavaroni-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/98fbfe1e2a69cc4b11d22092a815e5cd13ef207f)
+- [Update 1974-03-24-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1ac6e2b047bba491496f59ea42b4e12802d0f1ae)
+- [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md, 1974-03-03-Sol…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/995051d948f088404ecf3b576832271805fcdade)
+- [Update 1980-08-31-the-lena-zavaroni-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d87de767e1b4869206f85de2f6713f3ab8e87114)
 <!-- BLOG-POST-LIST:END -->
