@@ -19,9 +19,9 @@
 ### Recent Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e14bb44a1f7c4f1202d8ce49419edf75c83b303b)
+- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1e692b4809dbdc1ab504884519d0f319b20c0ab3)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a33681546c01354285ce386717329dd5a047f0c6)
 - [Update README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/098d7c8975df4f8bd028b0cc805c8c39f1cbc647)
 - [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5346721025abcb2c1bd1fd9268bcbe9fa153da68)
-- [Delete pdf.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4232a3fe26ab86e96b13f935828989ed472014c7)
-- [Update 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fe30df262005efa0c6391d407ef47750a72a814c)
 <!-- BLOG-POST-LIST:END -->
