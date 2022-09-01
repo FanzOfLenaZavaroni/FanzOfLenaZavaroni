@@ -19,9 +19,9 @@
 ### Recent Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [NewsBank | The Guardian, Web Edition Articles &lpar;London, England&rpar; | 26 February 2020](https://fanzoflenazavaroni.github.io/2022-02-26-Newsbank/)
-- [NewsBank | TheSunday Post &lpar;Dundee, Scotland&rpar; | 30 January 2022](https://fanzoflenazavaroni.github.io/2022-01-30-Newsbank/)
-- [NewsBank | The Guardian, Web Edition Articles &lpar;London, England&rpar; | 8 March 2021](https://fanzoflenazavaroni.github.io/2021-03-08-Newsbank/)
-- [NewsBank | The Herald/THe Sunday Herald &lpar;Glasgow, Scotland&rpar; | 10 January 2021](https://fanzoflenazavaroni.github.io/2021-01-10-Newsbank/)
-- [NewsBank | The Bath Chronicle &lpar;England&rpar; | 26 November 2020](https://fanzoflenazavaroni.github.io/2020-11-26-Newsbank/)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a33681546c01354285ce386717329dd5a047f0c6)
+- [Update README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/098d7c8975df4f8bd028b0cc805c8c39f1cbc647)
+- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5346721025abcb2c1bd1fd9268bcbe9fa153da68)
+- [Delete pdf.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4232a3fe26ab86e96b13f935828989ed472014c7)
+- [Update 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fe30df262005efa0c6391d407ef47750a72a814c)
 <!-- BLOG-POST-LIST:END -->
