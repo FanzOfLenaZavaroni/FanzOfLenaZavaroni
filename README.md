@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a08b8214cdfc614b41b557dde24639168e34f76d)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2f6d667108b00820480f798aa387f6f444c57286)
 - [Create README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bd53cf5f7e09e1d65377ea0f5bc0cd1ff97fb355)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8ca0d096e57f240ba97ded341ebc086f2448eb53)
 - [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30af102315572e3d2530c3747ab0fd44ae72e89b)
-- [Update post.html and 1974-08-31-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2c70789e15bbbaf62c1a273d5288d44bdfddc64a)
 <!-- BLOG-POST-LIST:END -->
