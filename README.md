@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a08b8214cdfc614b41b557dde24639168e34f76d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2f6d667108b00820480f798aa387f6f444c57286)
-- [Create README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bd53cf5f7e09e1d65377ea0f5bc0cd1ff97fb355)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8ca0d096e57f240ba97ded341ebc086f2448eb53)
-- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30af102315572e3d2530c3747ab0fd44ae72e89b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/492448a3793368541d985219f1a45aa3278a6166)
+- [Update 1976-06-04-des-oconnor-entertains.md and 09-03.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/11d0aa6d0166aa4fe4f89d815aa24219bf2d4850)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0fb8cc1e2db96576dbdf8f9829fca2e6d9206559)
+- [Update 1976-06-04-des-oconnor-entertains.md and 1986-01-16-the-stage-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/73417f481b6781c0139026dc67008987ceee12c1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcc04b838c754ccb6b89c0d7c16b11a89cdd9e32)
 <!-- BLOG-POST-LIST:END -->
