@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/492448a3793368541d985219f1a45aa3278a6166)
-- [Update 1976-06-04-des-oconnor-entertains.md and 09-03.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/11d0aa6d0166aa4fe4f89d815aa24219bf2d4850)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0fb8cc1e2db96576dbdf8f9829fca2e6d9206559)
-- [Update 1976-06-04-des-oconnor-entertains.md and 1986-01-16-the-stage-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/73417f481b6781c0139026dc67008987ceee12c1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcc04b838c754ccb6b89c0d7c16b11a89cdd9e32)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2603a8d9bf03e57fa478b13b2375721c4d24529d)
+- [Update 1978-09-09-emma.md, 01-01.md, and 89 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0bd274670de06a1bda0d957de33772cf0d6c46c0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d50b002963350bb241ac50c41603f333f6c77c8b)
+- [Update 09-08.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b180c34705499fc096aeb6401bfc834ba95b8df4)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2d197b81a860249e7fcca0a02dc74f666a4e83b0)
 <!-- BLOG-POST-LIST:END -->
