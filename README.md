@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2603a8d9bf03e57fa478b13b2375721c4d24529d)
-- [Update 1978-09-09-emma.md, 01-01.md, and 89 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0bd274670de06a1bda0d957de33772cf0d6c46c0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d50b002963350bb241ac50c41603f333f6c77c8b)
-- [Update 09-08.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b180c34705499fc096aeb6401bfc834ba95b8df4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2d197b81a860249e7fcca0a02dc74f666a4e83b0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/26243865d48af174eb52717025cfa95470c66c1e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a106383c5885b7316a0c2d56b22b1b4aa7fcb889)
+- [Update bruised-uk-lobotomy.md, 1999-09-07-lena-zavaroni-underwent-neu…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8628bbf5393876af615d66463817424251c93cbf)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba1cbec8ebd9bc2b7296235304981def8f8dffef)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c834614a74612dfbb1edf7d4ab86758b83b3bb0e)
 <!-- BLOG-POST-LIST:END -->
