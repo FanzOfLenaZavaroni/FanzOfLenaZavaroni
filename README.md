@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fffa5d16d0bf914626d58e89616ee56672b8984e)
+- [Update default.html and style.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8a188072adb0949438d7651675ead8cd7cbb627c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0260d2161fd7d6433f18d88c70a035625fddc999)
+- [Update 1998-06-05-tv-offal.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eeaf0bd3f94645256533d923adf707ef07c5d1aa)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/26243865d48af174eb52717025cfa95470c66c1e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a106383c5885b7316a0c2d56b22b1b4aa7fcb889)
-- [Update bruised-uk-lobotomy.md, 1999-09-07-lena-zavaroni-underwent-neu…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8628bbf5393876af615d66463817424251c93cbf)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba1cbec8ebd9bc2b7296235304981def8f8dffef)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c834614a74612dfbb1edf7d4ab86758b83b3bb0e)
 <!-- BLOG-POST-LIST:END -->
