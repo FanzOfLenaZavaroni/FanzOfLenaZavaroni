@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1963bc85d994630f90376cba277e7bb0b81df625)
+- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34cfea2c7927818db14e43d38cd5b4964245e8fd)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2a72e0cda520e1a12f6b7a3fa1529631fc5b02ea)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fffa5d16d0bf914626d58e89616ee56672b8984e)
 - [Update default.html and style.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8a188072adb0949438d7651675ead8cd7cbb627c)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0260d2161fd7d6433f18d88c70a035625fddc999)
-- [Update 1998-06-05-tv-offal.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eeaf0bd3f94645256533d923adf707ef07c5d1aa)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/26243865d48af174eb52717025cfa95470c66c1e)
 <!-- BLOG-POST-LIST:END -->
