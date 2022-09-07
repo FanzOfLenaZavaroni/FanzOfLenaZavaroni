@@ -1,11 +1,14 @@
 name: Readme Update Workflow
+
 on:
   push:
     branches: [ "master" ]
   pull_request:
     # The branches below must be a subset of the branches above
     branches: [ "master" ]
-    workflow_dispatch:
+  schedule:
+    - cron: '50 23 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
