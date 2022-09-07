@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1d8fb187847435ff5882ca3c613d31bad85ac572)
+- [Update list-of-on-this-days.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8434d301a49cc9eae668b85ee49ba18a3ac8a6a8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/631a00bd15f157833febb14d717f28b2bb1109b9)
 - [Update BL-01.jpg, BL-01.png, and 6 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7cef6c60a5d768f40ed4bc3fc33f5faaf4fc1935)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b5d16bbed4448d6ede2ccad16606deeeb5647bce)
-- [Update 1974-alle-13-goed-deel-7.md, 1974-opportunity-knocks-winners.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/49ad92ae297a641bb023c8905bc63de24aa1a08d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e6b5b596b70de83ecdd25e67043ad9cec1eb2322)
 <!-- BLOG-POST-LIST:END -->
