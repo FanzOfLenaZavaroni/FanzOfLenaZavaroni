@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2ab4f39a4a9716e02a1cf6872569f0bcf70ede41)
+- [Update Gemfile](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f0cf30c55d6e677ecd9b8f33ef05420fb715bf2c)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c83843837b929846008ebf11540a6062fa5da817)
 - [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fee0992f9f9c9405c79859531719e12e2aec8bd7)
 - [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a21c378d6c38bcb5ef50df088f8a601e5d38d309)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e43a6898b9b2ed322fa583b77d58e410795b981)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a05bc8193eeb10f6d0c4d06f8f3468dd3705152f)
 <!-- BLOG-POST-LIST:END -->
