@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2ab4f39a4a9716e02a1cf6872569f0bcf70ede41)
-- [Update Gemfile](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f0cf30c55d6e677ecd9b8f33ef05420fb715bf2c)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c83843837b929846008ebf11540a6062fa5da817)
-- [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fee0992f9f9c9405c79859531719e12e2aec8bd7)
-- [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a21c378d6c38bcb5ef50df088f8a601e5d38d309)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/400a9be1a9039124d7fdb1b02ebc053444642d9d)
+- [Update karaoke.md and pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a9495d904b91de081f58a10e08e8be8c599c4a93)
+- [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/80145cde5a0355f23c996c3e3d59e0b821dd75bd)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b08fcaf3cc6aae081302f94e475e01571e73eb3e)
+- [Update _config.yml, discography.html, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1dff457585450d349463385c79c138c209d29fa1)
 <!-- BLOG-POST-LIST:END -->
