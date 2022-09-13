@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/400a9be1a9039124d7fdb1b02ebc053444642d9d)
-- [Update karaoke.md and pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a9495d904b91de081f58a10e08e8be8c599c4a93)
-- [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/80145cde5a0355f23c996c3e3d59e0b821dd75bd)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b08fcaf3cc6aae081302f94e475e01571e73eb3e)
-- [Update _config.yml, discography.html, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1dff457585450d349463385c79c138c209d29fa1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3ecafec522e25f83cf537c8671dc122ff61ebb40)
+- [Update 1974-lena-zavaroni-star-for-millions.md, 1974-the-lena-zavaron…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99f33f3aaa36502edc608e394f02e93158aecf0a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01e2fc9c7b9905553628edfb95b5e61de77a7708)
+- [Update 1974-alle-13-goed-deel-7.md, 1974-opportunity-knocks-winners.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/69ad27d3d0fb5d39c73e0ad4f545760c7f36eaf7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/600b155821e65c30b119b1374a59349a67481e61)
 <!-- BLOG-POST-LIST:END -->
