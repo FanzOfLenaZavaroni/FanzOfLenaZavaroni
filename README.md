@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e9e9d0528b715afc45c21ee69254324235f9931a)
+- [Update 1974-06-15-billboard.md and 1974-09-14-billboard.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a124cc263554303b22c8d9d5d1125c9c6afdca6f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b99b31711fa65ca8cbb4ccf10796444d1a61acc)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3ecafec522e25f83cf537c8671dc122ff61ebb40)
 - [Update 1974-lena-zavaroni-star-for-millions.md, 1974-the-lena-zavaron…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99f33f3aaa36502edc608e394f02e93158aecf0a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01e2fc9c7b9905553628edfb95b5e61de77a7708)
-- [Update 1974-alle-13-goed-deel-7.md, 1974-opportunity-knocks-winners.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/69ad27d3d0fb5d39c73e0ad4f545760c7f36eaf7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/600b155821e65c30b119b1374a59349a67481e61)
 <!-- BLOG-POST-LIST:END -->
