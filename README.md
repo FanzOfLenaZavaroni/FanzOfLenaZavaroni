@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e886a97fad4ef2e6ff41a96925e1120399e50887)
+- [Update custom-styles.scss, 1974-alle-13-goed-deel-7.md, and 27 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cdbb9c5107ab339cd3412f9127173dd3fb3ab0fe)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1121cfcf4a18d8a78d95c8daa98adb65d465e4a1)
 - [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b091157f861a406ec0a68789e9bc9d13b873de6)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/573a0690910c4333ac04a17d6c9e68420bd9f2f0)
-- [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3177685bdae4400cee699e4ede735d2b6c585995)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7ffe3e5a9d81b313d3356f9cb928af4965de2bda)
 <!-- BLOG-POST-LIST:END -->
