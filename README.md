@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58878b46bc18e21a72a5bf815887e1de10f74dc0)
+- [Update 1978-09-16-emma-front-cover.jpg, 1978-09-16-emma.md, and 1978-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c6d686a64107312a2c2d393db41d615ffa973ddc)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/95f4f7aa11aff3a05729efd5ae5d401ba38c78a8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b80bcbc9a944829f00b3c918539a98b15c3e3ca7)
 - [Update announcements.html, discography.html, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f32a7ac5d38fe8e060874f07f2ff88077edd7717)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e886a97fad4ef2e6ff41a96925e1120399e50887)
-- [Update custom-styles.scss, 1974-alle-13-goed-deel-7.md, and 27 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cdbb9c5107ab339cd3412f9127173dd3fb3ab0fe)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1121cfcf4a18d8a78d95c8daa98adb65d465e4a1)
 <!-- BLOG-POST-LIST:END -->
