@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d280c147f550bfb805a2bcfc30c8f9a7af4020d6)
+- [Update 1978-09-17-sunday-all-star-celebrity-concert.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7c533a985d38557f716bd6edf228cd71851659a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1985b3795e1d326561875f2ee1cf53022d055255)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58878b46bc18e21a72a5bf815887e1de10f74dc0)
 - [Update 1978-09-16-emma-front-cover.jpg, 1978-09-16-emma.md, and 1978-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c6d686a64107312a2c2d393db41d615ffa973ddc)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/95f4f7aa11aff3a05729efd5ae5d401ba38c78a8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b80bcbc9a944829f00b3c918539a98b15c3e3ca7)
-- [Update announcements.html, discography.html, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f32a7ac5d38fe8e060874f07f2ff88077edd7717)
 <!-- BLOG-POST-LIST:END -->
