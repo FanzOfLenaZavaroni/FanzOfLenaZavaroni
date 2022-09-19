@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7dcba1bf2af44cc588bd38bb3ed786f92673390e)
+- [Update feed.xslt.xml, sitemap-video.xml, and video-sitemap.xml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a216678111cb8956c4fa7316eee2cc1c261296f1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/656e3660a0a20c35805f5e00a6c051786577fb5d)
+- [Update lena-zavaroni.md and 1974-06-15-billboard.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b2c99ac105a517906e5cdbc43fc5b0b6f3ab49d0)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2ccf74334793050223e2beab698bf72f85b11eae)
-- [Update LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BS…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8366d7d2a785d12d51471f8536eba8bd09175e36)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09793a0a6b36385c858d561b2a856af1b6c8bdc8)
-- [Update LENA-ZAVARONI-DIES-Archive-Footage-ITN-Source-BSP021099026-0.p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/da9521cede215e728aa7491f475ab22cce13d321)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1dd64e8b44746a68860ad5bdc914049afed8887d)
 <!-- BLOG-POST-LIST:END -->
