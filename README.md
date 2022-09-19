@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7dcba1bf2af44cc588bd38bb3ed786f92673390e)
-- [Update feed.xslt.xml, sitemap-video.xml, and video-sitemap.xml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a216678111cb8956c4fa7316eee2cc1c261296f1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/656e3660a0a20c35805f5e00a6c051786577fb5d)
-- [Update lena-zavaroni.md and 1974-06-15-billboard.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b2c99ac105a517906e5cdbc43fc5b0b6f3ab49d0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2ccf74334793050223e2beab698bf72f85b11eae)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/195891395fe7cc8a7f1102d85b3c220eecd52254)
+- [Update _config.yml, discography.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/505e9d38e50cb2c2636b18633602ac2bf3976bb4)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a57c22a7466565ca27a048a3a99ec2e5524cb9e)
+- [Update video-sitemap.xml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/92ed5d7c85c98ce7af9ad0b74b72c11f7ea8f4f0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c6079a6073ce16328c9551e4934e80e6328fbe0)
 <!-- BLOG-POST-LIST:END -->
