@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/195891395fe7cc8a7f1102d85b3c220eecd52254)
-- [Update _config.yml, discography.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/505e9d38e50cb2c2636b18633602ac2bf3976bb4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a57c22a7466565ca27a048a3a99ec2e5524cb9e)
-- [Update video-sitemap.xml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/92ed5d7c85c98ce7af9ad0b74b72c11f7ea8f4f0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c6079a6073ce16328c9551e4934e80e6328fbe0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7f31541488249193c88e374f3f17d48cd3efd67)
+- [Update podcasts.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ca719b3f88aa52b8e2f33619f387d60291836a82)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4b7ac3a9a1547d93bd91905a821aa5b6d5061264)
+- [Update discography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13fc6660be7a7b7cb4ac1173fdb8db00b941f1c8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2b7ddd6d49e1ef877537a9dca3e2f372814973d)
 <!-- BLOG-POST-LIST:END -->
