@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9dd78a03feb56e07d6fba396d597383d339bc976)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba26b33cf671029b1b722ce883e0d8bbf7edce9c)
 - [Update Parental_Advisory_Strong_Language_2002.png, Parental_Advisory_…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c52393f3fcad0040d067ca6499e5f55bd9460b47)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58aea9ed5a9cc061500b7a5f8d1f28b8f1ccc10d)
 - [Update 2017-0523-in-the-corner-back-by-the-woodpile.md, 2018-02-01-po…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/efac57cc831352511201ff470e0bf1b73f62009d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5ce055c8422fd8bd36ba2eda412ba43bdb7ee179)
 <!-- BLOG-POST-LIST:END -->
