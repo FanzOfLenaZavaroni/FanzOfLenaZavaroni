@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53fc7f5f7fa985dacf0ec1b8ba7c5a86a79122b7)
+- [Update 1974-alle-13-goed-deel-7.md, 1974-lena-zavaroni-star-for-milli…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/420abb43133945c57c81b9a8a5edf89e634167be)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9cc86bf4ac476afe424f36cc5d88c47c904ddaa6)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7d4199c35e972b197bb497da6821108d2a9cc701)
 - [Update codeql-analysis.yml and readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/32f8af2c22609b64803ab0c00b302337ebef8952)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/07779b78374052f56eb7a89bcbe2a1e310a746a1)
-- [Update 2008-09-22-irish-independent-fc.png, 2008-09-22-irish-independ…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a986f30518b293644411e32e442c021c782c0db1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea142a40f132a1b02b022358d2ad77845f637079)
 <!-- BLOG-POST-LIST:END -->
