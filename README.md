@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3ed385c21ec8791c484590691d2c60122060fef9)
-- [Update custom-styles.scss, 1980-12-13-the-basil-brush-show.md, and vi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e819c36ea7c24c712488eb6a34510d31d545a4a5)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bdb8fa2ada656fdc47cd678a6c99b3f1c1f530bc)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53fc7f5f7fa985dacf0ec1b8ba7c5a86a79122b7)
-- [Update 1974-alle-13-goed-deel-7.md, 1974-lena-zavaroni-star-for-milli…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/420abb43133945c57c81b9a8a5edf89e634167be)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9f30ab535b74a82a4f9bede480daffc787724b9a)
+- [Update 09-25.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1814c58914b2e20334fc64331ce3d664cb483cf2)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/152abb4c9fbed1927535fc3414d2637e72c5badf)
+- [Update 1981-09-25-somewhere-south-of-macon.md and 09-25.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5fada51cb834b57a46364356714eb42da261cb67)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8f1b612e467a288c49d4bd94ce9b9e7c779d1187)
 <!-- BLOG-POST-LIST:END -->
