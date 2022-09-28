@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5a70765787e47a6017271c1e29ff0dfb2da39e3e)
+- [Update 1978-09-28-blue-peter.jpg, 1978-09-28-the-stage-and-television…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5f1a8e25853355b2996472ed69425bf42474b441)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0bb282f256e8a92fe6cdc77ab393d5bc4248b45)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0ea6b00bf5b89abb45960c5e8303449ba51ac439)
 - [Update 1999-10-04-daily-record.md, 1999-10-04-more-media-news-on-lena…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c04b462ee3292ba6c3cb9ad1733f5d8ffbefaec)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a8918a2050a7358c3911bbbaae81e3ffb6eed57)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/22671b57699ce0a56c3b6d4a4d381fe20d838fc5)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9f30ab535b74a82a4f9bede480daffc787724b9a)
 <!-- BLOG-POST-LIST:END -->
