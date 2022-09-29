@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5a70765787e47a6017271c1e29ff0dfb2da39e3e)
-- [Update 1978-09-28-blue-peter.jpg, 1978-09-28-the-stage-and-television…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5f1a8e25853355b2996472ed69425bf42474b441)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0bb282f256e8a92fe6cdc77ab393d5bc4248b45)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0ea6b00bf5b89abb45960c5e8303449ba51ac439)
-- [Update 1999-10-04-daily-record.md, 1999-10-04-more-media-news-on-lena…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c04b462ee3292ba6c3cb9ad1733f5d8ffbefaec)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a1ce21dadb02a5b8376a6a1339dee46828f23ad1)
+- [Update 2021-09-29-The-Herald-Scotland.md and 1975-07-06-lena-zavaroni…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b49f40bcf333360261b2eb90643f72d1eb945cc3)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/237e419678381aeb40511789a2b5b159dc5b699f)
+- [Update Pavilon323432.jpg, 2021-09-29-The-Herald-Scotland.md, and 1975…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6608157f67dfba544bb792ffe932bbbe7f21e663)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b19bcc3da29a158d20038ece07bcdf544f5b6897)
 <!-- BLOG-POST-LIST:END -->
