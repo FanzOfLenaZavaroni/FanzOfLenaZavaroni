@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c02cee7ffdf3e682bd27fffeb9eb3804a22f3749)
-- [Update 1975-07-06-lena-zavaroni-at-the-rothesay-pavilion.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a0ccfb2e524a59fa15e9b11225c0276c6adcba5)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a1ce21dadb02a5b8376a6a1339dee46828f23ad1)
-- [Update 2021-09-29-The-Herald-Scotland.md and 1975-07-06-lena-zavaroni…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b49f40bcf333360261b2eb90643f72d1eb945cc3)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/237e419678381aeb40511789a2b5b159dc5b699f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52aafa3ba92fd0fdc67a518d0371c2007c427521)
+- [Update lena-zavaroni.md and 1989-09-30-wedding.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b9547e923c57da7cc404dbcc81bdcfe8f70e6d4c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/28cbc30d30a57136de083149240eeea97b033111)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/94916490c58185ca2384073bc85d592d551f849f)
+- [Update 1989-09-30-wedding.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3ad937eda425e9565d1177894074cce847798182)
 <!-- BLOG-POST-LIST:END -->
