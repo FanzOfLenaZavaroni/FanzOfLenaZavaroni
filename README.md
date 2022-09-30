@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2c7edfcc92ee37abf10ccfe8b0b263bb84e7d9c4)
+- [Update lena-zavaroni.md, 1989-09-30-wedding.md, and 1989-09-30-marria…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5069fba2c286eafb38f05ecb3288f9ee449c5b0)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52aafa3ba92fd0fdc67a518d0371c2007c427521)
 - [Update lena-zavaroni.md and 1989-09-30-wedding.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b9547e923c57da7cc404dbcc81bdcfe8f70e6d4c)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/28cbc30d30a57136de083149240eeea97b033111)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/94916490c58185ca2384073bc85d592d551f849f)
-- [Update 1989-09-30-wedding.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3ad937eda425e9565d1177894074cce847798182)
 <!-- BLOG-POST-LIST:END -->
