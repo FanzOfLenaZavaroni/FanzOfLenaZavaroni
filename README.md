@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/150b04dcb782ceacc3186fa4abbe69f3d2627433)
+- [Update 1985-10-03-the-stage-and-television-today-fc.png, 1985-10-03-t…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/de6b46c8f4c04c984f2511ee11da16d66fa30424)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cdfb88fc221c2a030a16120bf543861f0df1ac8b)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e6ffc38e1af0579740f6e7d52c90e19d09532ef8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/368a86d6f6e2ed52a7688691eefecf8c93caeb2e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2c7edfcc92ee37abf10ccfe8b0b263bb84e7d9c4)
-- [Update lena-zavaroni.md, 1989-09-30-wedding.md, and 1989-09-30-marria…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5069fba2c286eafb38f05ecb3288f9ee449c5b0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52aafa3ba92fd0fdc67a518d0371c2007c427521)
 <!-- BLOG-POST-LIST:END -->
