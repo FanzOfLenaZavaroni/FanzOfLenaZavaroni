@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b3f9ec087d52e3a0ed78d96536a2fb4cba09d04a)
+- [Update 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/98cca34ceed62b4f5308401de6440476162e00e0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b6d4df04a204f71ab8117dd868eaf646e0d0b4d5)
+- [Update 1980-10-03-pontypridd-observer-page-4-clipping.png, 1980-11-10…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/634fe99f16735728219ae1efbcc40e7261401078)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/150b04dcb782ceacc3186fa4abbe69f3d2627433)
-- [Update 1985-10-03-the-stage-and-television-today-fc.png, 1985-10-03-t…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/de6b46c8f4c04c984f2511ee11da16d66fa30424)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cdfb88fc221c2a030a16120bf543861f0df1ac8b)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e6ffc38e1af0579740f6e7d52c90e19d09532ef8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/368a86d6f6e2ed52a7688691eefecf8c93caeb2e)
 <!-- BLOG-POST-LIST:END -->
