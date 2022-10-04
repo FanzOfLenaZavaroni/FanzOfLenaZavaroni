@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/17b7b393868a8a41872b51a212eb32e53a7775ad)
+- [Update 1980-11-10-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/147cc8aae8a657e1d2ca7a727ca8b71c751ac1e8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6c0ec0c8f04eb40ba682da3852d5605aa6842ca)
 - [Update more.md and 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f69d3558a6d6744a2ecbd420947e66d9773d2c4)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83df5024c1f8489b43d1ee05d75036b0a3f61839)
-- [Update 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea1032e79bd91c18522b116791943b4605729e30)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e7b06e192d08360c48e27efaaa0c183b60e02c58)
 <!-- BLOG-POST-LIST:END -->
