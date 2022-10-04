@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b3f9ec087d52e3a0ed78d96536a2fb4cba09d04a)
-- [Update 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/98cca34ceed62b4f5308401de6440476162e00e0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b6d4df04a204f71ab8117dd868eaf646e0d0b4d5)
-- [Update 1980-10-03-pontypridd-observer-page-4-clipping.png, 1980-11-10…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/634fe99f16735728219ae1efbcc40e7261401078)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/150b04dcb782ceacc3186fa4abbe69f3d2627433)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6c0ec0c8f04eb40ba682da3852d5605aa6842ca)
+- [Update more.md and 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f69d3558a6d6744a2ecbd420947e66d9773d2c4)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83df5024c1f8489b43d1ee05d75036b0a3f61839)
+- [Update 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea1032e79bd91c18522b116791943b4605729e30)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e7b06e192d08360c48e27efaaa0c183b60e02c58)
 <!-- BLOG-POST-LIST:END -->
