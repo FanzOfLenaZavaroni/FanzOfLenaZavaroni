@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/17b7b393868a8a41872b51a212eb32e53a7775ad)
-- [Update 1980-11-10-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/147cc8aae8a657e1d2ca7a727ca8b71c751ac1e8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6c0ec0c8f04eb40ba682da3852d5605aa6842ca)
-- [Update more.md and 11-10.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f69d3558a6d6744a2ecbd420947e66d9773d2c4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83df5024c1f8489b43d1ee05d75036b0a3f61839)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09614ab707256dd3989aa8fa243782d5e38e9713)
+- [Update 1999-10-02-media-news-on-lenas-death.md, 1999-10-03-more-media…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c0d27f5da394f31184881fde7b218dd4db5c0862)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58049c0e32f05c53257919d66778aad894114ac4)
+- [Update 1999-10-05-more-media-news-on-lenas-death.md, 1984-12-31-a-cen…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/622eaf14a21227bf4a987f8e69e2d9c6f7b73b1f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5610023279fd942beedda49d4f2ebcd5c3348e6)
 <!-- BLOG-POST-LIST:END -->
