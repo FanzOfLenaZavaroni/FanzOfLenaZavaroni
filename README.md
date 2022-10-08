@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b6ac8bb96619c565c92f39b15f91465cfb4565e3)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fc7a224d3ebc5c72771fbb1b2b2534d0d00f3788)
-- [Update 1981-10-06-lena-zavaroni-at-the-bbc-manchester-variety-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8cd913ac89d2e9c1be673a959ce9b1a9d988f1db)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6602e7122e42a432a575390e7c97251d0566b424)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09614ab707256dd3989aa8fa243782d5e38e9713)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b12b5cc9a6b4cb805fca15e506557bce2ffb7199)
+- [Update 1999-12-08-media-news-on-lenas-inquest.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b3942849a006698503bc50ac15af1e767cf3d29e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/42ecd2153645588d5770669c86e62bf67c705dcf)
+- [Update 1999-12-08-media-news-on-lenas-inquest.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/27930bbe429673e5c628e247031fd5ab60ea9a65)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5232550edb2748129b62181b12af25444bde823)
 <!-- BLOG-POST-LIST:END -->
