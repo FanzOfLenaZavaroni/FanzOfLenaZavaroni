@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/249d6af9937264cd90dfd1bbdf84f50956e495d1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b12b5cc9a6b4cb805fca15e506557bce2ffb7199)
-- [Update 1999-12-08-media-news-on-lenas-inquest.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b3942849a006698503bc50ac15af1e767cf3d29e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/42ecd2153645588d5770669c86e62bf67c705dcf)
-- [Update 1999-12-08-media-news-on-lenas-inquest.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/27930bbe429673e5c628e247031fd5ab60ea9a65)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1055b803f97b90f94ecc635e739da442bbc3b7a6)
+- [Update 10-12.md, 10-13.md, and 10-14.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b6117250bc1b4f2dc996a6f6bda173e1f70364c7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f69daf8e2d22e992fe111b6410f1fa3c1e19f737)
+- [Update google-analytics.html and header.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09dcb39f91e33f036ee453033e132122a1c9561d)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a985ea1e942c379d38a83f23cef3f3aaffffa80e)
 <!-- BLOG-POST-LIST:END -->
