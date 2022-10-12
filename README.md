@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0cf3b2cf8f3e69c45505205e0a7016a16593d98)
+- [Update _config.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3138e33fc2b6568a1a89683592b2d365a6101a6b)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f2e2d3d105e8e29e90a46cd9d358ee27bdbdde87)
 - [Update 2022-11-18-memory-mobility-and-material-culture.jpg and 2022-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/525a1e3d242e6d0de9bfe7593dd432b1891d19ac)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a6eccb308c4cee7b0bcecc6d2ee3896cdbb08234)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ab68d9e9ebb7442170da12ca795fe26cee095ed)
-- [Update 472294_enanadbonnie150.jpg, 472294_lenaold300.jpg, and 3 more …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30e7c3604ccf2c19e13038373676b5c46a729a23)
 <!-- BLOG-POST-LIST:END -->
