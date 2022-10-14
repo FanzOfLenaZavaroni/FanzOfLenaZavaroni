@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a957609cab9ff7899430e53e7b70d204eb0bfce1)
-- [Update 2022-09-18-memory-mobility-and-material-culture.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/97df28f11d7736ab677a678182723431a25c0d2a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e27cccf83cd7bd8001620b9d2542f59df0910fa9)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0cf3b2cf8f3e69c45505205e0a7016a16593d98)
-- [Update _config.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3138e33fc2b6568a1a89683592b2d365a6101a6b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/42defe230a5060e7930920aecc492f63443aa94e)
+- [Update 1999-10-15-the-funeral-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/59e2fda976139cd28b3ad8f89d435b5d9dbe6334)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a6cb74665ed1cea6325b5e3bd0e7e8223d27ab56)
+- [Update 1999-10-15-the-funeral-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/777e6d6766e17aa025d29bfba605808f5e364986)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4884af6f7f2d0ad3f8f0cdfec63c839844fdc939)
 <!-- BLOG-POST-LIST:END -->
