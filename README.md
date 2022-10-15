@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/830c384958e1db818b210e0a8aef53ad7d6be827)
+- [Update 1999-10-15-the-funeral-of-lena-zavaroni.md and 10-01.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a63993c55d109a70be61bfe735afffc30cfc0ae2)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ede4363535cbcccbc14e621909458fc2ad26b62f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/42defe230a5060e7930920aecc492f63443aa94e)
 - [Update 1999-10-15-the-funeral-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/59e2fda976139cd28b3ad8f89d435b5d9dbe6334)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a6cb74665ed1cea6325b5e3bd0e7e8223d27ab56)
-- [Update 1999-10-15-the-funeral-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/777e6d6766e17aa025d29bfba605808f5e364986)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4884af6f7f2d0ad3f8f0cdfec63c839844fdc939)
 <!-- BLOG-POST-LIST:END -->
