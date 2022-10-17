@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2f0ccdb1d88a6e457a33e5012186946398b0ad63)
-- [Update 1974-03-10-heathrow-to-glasgow.md, 1975-07-06-the-sunday-mirro…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d2cb21e7e9b7fb96dacc5ef1ac4637f4c384bdb2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/559fa581b69780ca2317f81453435599540f73f2)
-- [Update 1999-10-04-daily-record.md, 1999-10-04-the-daily-record.md, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/efed02aabcc2407b94f6a301b293a89055461b97)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1ed2d6464b5917b202689e79aae98e84822c534f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f0fa4c0bf5297fdb1768dbe8d422a5ae0b5cf2c6)
+- [Update 1984-10-17-tv-am-good-morning-britain.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51a8da0506dc605a35cadc0889f95762e7a33c53)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/507ca4a7f8244a29407795d4754bf5ebad997e07)
+- [Update 1984-10-17-tv-am-good-morning-britain.md and 1984-10-17-tv-am.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a669f7d1245b2e611eb6e0dad09d5e5bb8240344)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e01ee937f74de495fbd0496f31f9ecf4e3f1621c)
 <!-- BLOG-POST-LIST:END -->
