@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f0fa4c0bf5297fdb1768dbe8d422a5ae0b5cf2c6)
-- [Update 1984-10-17-tv-am-good-morning-britain.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51a8da0506dc605a35cadc0889f95762e7a33c53)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/507ca4a7f8244a29407795d4754bf5ebad997e07)
-- [Update 1984-10-17-tv-am-good-morning-britain.md and 1984-10-17-tv-am.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a669f7d1245b2e611eb6e0dad09d5e5bb8240344)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e01ee937f74de495fbd0496f31f9ecf4e3f1621c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bcf369c40bd03c63c0bd7160b1c7fab9f4018177)
+- [Update 2020-10-30-Newsbank.md, 1999-10-27-the-mirror.md, and 7 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a095bae409d8f6810290810de2b4c0660502f8ff)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4bfd509d3db2941c554bc5064734a3f95d6fe56c)
+- [Update 1976-10-19-the-glasgow-herald.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6655d47bf2abaea39ba63b3c1c420aff793e295b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4361bec9f5e83a5802b16bdd3b6ce6d26afae903)
 <!-- BLOG-POST-LIST:END -->
