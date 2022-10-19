@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f12a729e3438939d30ef3e25f7ea00d2e0ea0172)
+- [Update 2021-04-29-two-hundred-percent.md, 1979-04-01-lena-zavaroni-an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/993efde5e2852c78f6f6aeeb695c331030bb335a)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1ed3ecc4844f8e6c1e5e6535156d39b437c582ff)
 - [Update 2021-04-29-two-hundred-percent.md and podcasts.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a27da1b206ebf53710b04415ba55c15fa32c2f3f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb994601d50fc704c8114b8e2d2c5274d05ce50a)
-- [Update this-is-our-everest.jpg, twohundredpercent.png, and 4 more fil…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0d747b6849f3808cf0f0125eb0b67494541710a4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f173d8055a29324bf1083264e2f1ac44da9dbdf5)
 <!-- BLOG-POST-LIST:END -->
