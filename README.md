@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f12a729e3438939d30ef3e25f7ea00d2e0ea0172)
-- [Update 2021-04-29-two-hundred-percent.md, 1979-04-01-lena-zavaroni-an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/993efde5e2852c78f6f6aeeb695c331030bb335a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1ed3ecc4844f8e6c1e5e6535156d39b437c582ff)
-- [Update 2021-04-29-two-hundred-percent.md and podcasts.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a27da1b206ebf53710b04415ba55c15fa32c2f3f)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb994601d50fc704c8114b8e2d2c5274d05ce50a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f600cbc8d77593dee90acb326b8cbd3db3ba8897)
+- [Update 1980-10-22-the-belfast-telegraph.png, 1980-10-20-ulster-televi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/edeb1a7c0820e113048b248aeafaec82ab7569de)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0beea61a2853359e6416e5108ef484de2ffe2db3)
+- [Update 1980-10-20-ulster-television-news.md and 1980-10-22-ulster-tel…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/120cad7d1e246a86d0b297467533d2204dd77d26)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e7479d10afc12790093322066e0c66cc20337c1)
 <!-- BLOG-POST-LIST:END -->
