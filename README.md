@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b13d61d1f3a2d01c323f1e1678e928ab6368244)
+- [Update _config.yml, discography.md, and 17 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5115eeed4ab8dcf4cce5d37342c088c34c7416a8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1c91718eb62db2bbab91158212dba532fcc571a0)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f600cbc8d77593dee90acb326b8cbd3db3ba8897)
 - [Update 1980-10-22-the-belfast-telegraph.png, 1980-10-20-ulster-televi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/edeb1a7c0820e113048b248aeafaec82ab7569de)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0beea61a2853359e6416e5108ef484de2ffe2db3)
-- [Update 1980-10-20-ulster-television-news.md and 1980-10-22-ulster-tel…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/120cad7d1e246a86d0b297467533d2204dd77d26)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e7479d10afc12790093322066e0c66cc20337c1)
 <!-- BLOG-POST-LIST:END -->
