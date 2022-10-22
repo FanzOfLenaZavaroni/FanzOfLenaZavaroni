@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/668f284f2e6a5df436fd7b7e46f78ca8c2a28f69)
+- [Update 1980-10-22-the- ew-vic-theatre.md and 1980-10-22-the-lena-zava…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f4c583fc44765e9df0f18be81ea2ef9ad9cb74bf)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7bb10796735ad97e8d8c624aa1ccfb4ea7fbe405)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b13d61d1f3a2d01c323f1e1678e928ab6368244)
 - [Update _config.yml, discography.md, and 17 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5115eeed4ab8dcf4cce5d37342c088c34c7416a8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1c91718eb62db2bbab91158212dba532fcc571a0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f600cbc8d77593dee90acb326b8cbd3db3ba8897)
-- [Update 1980-10-22-the-belfast-telegraph.png, 1980-10-20-ulster-televi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/edeb1a7c0820e113048b248aeafaec82ab7569de)
 <!-- BLOG-POST-LIST:END -->
