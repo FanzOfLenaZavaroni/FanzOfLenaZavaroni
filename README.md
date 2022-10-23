@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/668f284f2e6a5df436fd7b7e46f78ca8c2a28f69)
-- [Update 1980-10-22-the- ew-vic-theatre.md and 1980-10-22-the-lena-zava…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f4c583fc44765e9df0f18be81ea2ef9ad9cb74bf)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7bb10796735ad97e8d8c624aa1ccfb4ea7fbe405)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b13d61d1f3a2d01c323f1e1678e928ab6368244)
-- [Update _config.yml, discography.md, and 17 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5115eeed4ab8dcf4cce5d37342c088c34c7416a8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a44f242df3d4352ebf7f8d1386e2c90a713bf42a)
+- [Update 1980-10-23-the-belfast-telegraph.md, 2002-08-20-evening-herald…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ad29d2ac99d943648d4411a423ba3782f01bb878)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/060dd391db81cfe1f7932bae09b2cd07af01bcf3)
+- [Update 1980-10-23-the-belfast-telegraph.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/90f457bb62c85e88dec4fd0b1a702c0a96f2e2a6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b602c2802a2a892029e194286e13e27e1323a56d)
 <!-- BLOG-POST-LIST:END -->
