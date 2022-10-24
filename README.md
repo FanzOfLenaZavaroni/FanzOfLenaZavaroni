@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a44f242df3d4352ebf7f8d1386e2c90a713bf42a)
-- [Update 1980-10-23-the-belfast-telegraph.md, 2002-08-20-evening-herald…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ad29d2ac99d943648d4411a423ba3782f01bb878)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/060dd391db81cfe1f7932bae09b2cd07af01bcf3)
-- [Update 1980-10-23-the-belfast-telegraph.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/90f457bb62c85e88dec4fd0b1a702c0a96f2e2a6)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b602c2802a2a892029e194286e13e27e1323a56d)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a47673860c355507b83d3d8482da3b2ed3b77b6)
+- [Update 1978-12-02-emma.md and 1978-12-23-emma.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2dae805957e196eaf1435b6f60b309e19a1d1a64)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7563556380704e3f73b6ba555705245493884ca9)
+- [Update 1978-12-02-emma-page-16.jpg, 1978-12-23-emma-page-1.jpg, and 7…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a6dc8046a10fe20d165b4b0a2cb619024b1bd7d)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4cfd1bfd05444a16d75f191ba937e0c0ef7c814a)
 <!-- BLOG-POST-LIST:END -->
