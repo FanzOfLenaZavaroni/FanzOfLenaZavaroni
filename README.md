@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a47673860c355507b83d3d8482da3b2ed3b77b6)
-- [Update 1978-12-02-emma.md and 1978-12-23-emma.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2dae805957e196eaf1435b6f60b309e19a1d1a64)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7563556380704e3f73b6ba555705245493884ca9)
-- [Update 1978-12-02-emma-page-16.jpg, 1978-12-23-emma-page-1.jpg, and 7…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a6dc8046a10fe20d165b4b0a2cb619024b1bd7d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4cfd1bfd05444a16d75f191ba937e0c0ef7c814a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99824952f00c0a3a8ec6baebd1c16d0d2fa53fbb)
+- [Update 02-01.md, 02-02.md, and 27 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/584e0730c18fd7326322417a615b8f7b9843f633)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a07776ba139bc4b3e2c94aee669deaa5dbb10d7)
+- [Update 1976-02-11-the-morecambe-and-wise-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52f44ddc3cedec35a0b9f4dd541d1be18f464988)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf2d1958c48ae3b7356986a605bc227e285f27a0)
 <!-- BLOG-POST-LIST:END -->
