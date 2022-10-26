@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99824952f00c0a3a8ec6baebd1c16d0d2fa53fbb)
-- [Update 02-01.md, 02-02.md, and 27 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/584e0730c18fd7326322417a615b8f7b9843f633)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a07776ba139bc4b3e2c94aee669deaa5dbb10d7)
-- [Update 1976-02-11-the-morecambe-and-wise-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52f44ddc3cedec35a0b9f4dd541d1be18f464988)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf2d1958c48ae3b7356986a605bc227e285f27a0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/80b24aff316aae2a2f5ea265db6640802419e60c)
+- [Update 1978-04-12-record-makers.md, 1985-12-31-the-new-year-show.md, …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a51cb3e44df7e183a5b4796d5c18aa9603da4709)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9223d66ab8cf37e80e0ce21326faf725cebbf19d)
+- [Update 1985-10-27-live-from-her-majestys.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0bbb97605654bb10ddb49ffc6fe90f65185be551)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8cdfaf9aad80bbdd33188a9a3a097be714eddf66)
 <!-- BLOG-POST-LIST:END -->
