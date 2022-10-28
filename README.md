@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53edcf72db27d3dfa5473d455c78f0246644e617)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/839459377ce4210df5003550e8cf8954382cf174)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/80b24aff316aae2a2f5ea265db6640802419e60c)
 - [Update 1978-04-12-record-makers.md, 1985-12-31-the-new-year-show.md, …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a51cb3e44df7e183a5b4796d5c18aa9603da4709)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9223d66ab8cf37e80e0ce21326faf725cebbf19d)
-- [Update 1985-10-27-live-from-her-majestys.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0bbb97605654bb10ddb49ffc6fe90f65185be551)
 <!-- BLOG-POST-LIST:END -->
