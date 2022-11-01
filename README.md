@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c0e68f5a060c3581a4e41ecb8fde03c8c07ed31)
+- [Update 2022-10-30-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f53bc6636fbad95c8cd0d121504d15a89f4e1545)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e295d5add363c6d3029c815ef758d8ba0262bf77)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/97d9c516577d33162d21dfeee009a51c3440f4f1)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0aa3e0f7710bba44524a7006641e9f4ca1af8470)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/367b7914560fd83c0484631f74b9291a9f48ac51)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53edcf72db27d3dfa5473d455c78f0246644e617)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/839459377ce4210df5003550e8cf8954382cf174)
 <!-- BLOG-POST-LIST:END -->
