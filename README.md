@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7c5ae5ce7e936e3199df0e11ad108a42f4e965fc)
+- [Update 1974-11-02-the-carol-burnett-show.md and 1978-11-02-rte-2-open…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55dc42c0deab87b1e7ce6aa7e859c5f3f596c937)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/588b4285fe123b18f21c3f5300e042e94106c914)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c0e68f5a060c3581a4e41ecb8fde03c8c07ed31)
 - [Update 2022-10-30-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f53bc6636fbad95c8cd0d121504d15a89f4e1545)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e295d5add363c6d3029c815ef758d8ba0262bf77)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/97d9c516577d33162d21dfeee009a51c3440f4f1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0aa3e0f7710bba44524a7006641e9f4ca1af8470)
 <!-- BLOG-POST-LIST:END -->
