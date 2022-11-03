@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7c5ae5ce7e936e3199df0e11ad108a42f4e965fc)
-- [Update 1974-11-02-the-carol-burnett-show.md and 1978-11-02-rte-2-open…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55dc42c0deab87b1e7ce6aa7e859c5f3f596c937)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/588b4285fe123b18f21c3f5300e042e94106c914)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c0e68f5a060c3581a4e41ecb8fde03c8c07ed31)
-- [Update 2022-10-30-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f53bc6636fbad95c8cd0d121504d15a89f4e1545)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ad2ce978a713df1f70b36c4b147c9c304dc89c49)
+- [Update 1979-11-03-music-week.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ed8ba61186b4edc2423eec3773f606588b8c51d8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0c0439081128fd30cd718c1136997eb3d29e96b1)
+- [Update 1979-11-03-Music-Week-fc.png, 1979-11-03-Music-Week-page-24.pn…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/466cf2806867ef38b7c9fbb0950aa44efb516448)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f13c5c79b88b6bf97f69978bdcf9780d074e074e)
 <!-- BLOG-POST-LIST:END -->
