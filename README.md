@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/66e586aed17bb38b278403a13fda6e74efd729ef)
+- [Update post.html, publicity-photos.html, and 65 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a879f98b7dc3728b58f33186cfc4b321f785f8ee)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0ee356b3299e5d4eea8cb29067427c77379e23f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a1db6de4a2da6229209e281aa7cbe8b918867bf2)
 - [Update 1979-11-17-Music-Week-fc.png, 1979-11-17-Music-Week-page-30.pn…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/57882ce134f76dc522e8bcda12d6b75223bd0924)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3863e793b5e9b840999e9e24ebb284559066638d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ad2ce978a713df1f70b36c4b147c9c304dc89c49)
-- [Update 1979-11-03-music-week.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ed8ba61186b4edc2423eec3773f606588b8c51d8)
 <!-- BLOG-POST-LIST:END -->
