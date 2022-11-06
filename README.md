@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/66e586aed17bb38b278403a13fda6e74efd729ef)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3bc306231f7585a23b94cb4c8ed7c42ee4f2291b)
+- [Update 1980-11-06-neath-guardian-page-4.png, 1980-11-10-diamond-cabar…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9aae9ec7e748bb97cf71370a1e41dcbf2df11c01)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/41a1464ce5738a72e59325019179fddd21751531)
+- [Update 1980-11-13-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f090ba423a0c6dcdde25a997d0c9619b3b97e764)
 - [Update post.html, publicity-photos.html, and 65 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a879f98b7dc3728b58f33186cfc4b321f785f8ee)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0ee356b3299e5d4eea8cb29067427c77379e23f)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a1db6de4a2da6229209e281aa7cbe8b918867bf2)
-- [Update 1979-11-17-Music-Week-fc.png, 1979-11-17-Music-Week-page-30.pn…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/57882ce134f76dc522e8bcda12d6b75223bd0924)
 <!-- BLOG-POST-LIST:END -->
