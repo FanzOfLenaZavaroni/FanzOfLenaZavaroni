@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/39dd153d3ba626a29596443cd64b517b014c6824)
+- [Update 2022-11-06-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/957ab4c8f23a25c9560a8fdb0b22458070816613)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3cd7f06fe7fa0459f85c670539aa56f6cf8dfe37)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3bc306231f7585a23b94cb4c8ed7c42ee4f2291b)
 - [Update 1980-11-06-neath-guardian-page-4.png, 1980-11-10-diamond-cabar…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9aae9ec7e748bb97cf71370a1e41dcbf2df11c01)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/41a1464ce5738a72e59325019179fddd21751531)
-- [Update 1980-11-13-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f090ba423a0c6dcdde25a997d0c9619b3b97e764)
-- [Update post.html, publicity-photos.html, and 65 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a879f98b7dc3728b58f33186cfc4b321f785f8ee)
 <!-- BLOG-POST-LIST:END -->
