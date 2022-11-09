@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/43d75cd160c511b7b20ee9582e15fc32fcb2a2c4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/39dd153d3ba626a29596443cd64b517b014c6824)
-- [Update 2022-11-06-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/957ab4c8f23a25c9560a8fdb0b22458070816613)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3cd7f06fe7fa0459f85c670539aa56f6cf8dfe37)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3bc306231f7585a23b94cb4c8ed7c42ee4f2291b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/efddf137001cca97d3e12bb5d3a6044c7dba31dd)
+- [Update maurice-dale-01.png, maurice-dale-02.png, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7471f223fe27c06c36bdb0517b0dc46ca952327)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aaa3e08ed8207b33d83655e272fe07692b79a2a3)
+- [Update 1981-09-25-somewhere-south-of-macon.md and 11-09.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e781413eb310a30d50ad2b6916608fc5b9148b1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b9fbe9f0ce22ecba8e4020424501c42003ead26c)
 <!-- BLOG-POST-LIST:END -->
