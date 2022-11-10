@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/efddf137001cca97d3e12bb5d3a6044c7dba31dd)
-- [Update maurice-dale-01.png, maurice-dale-02.png, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7471f223fe27c06c36bdb0517b0dc46ca952327)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aaa3e08ed8207b33d83655e272fe07692b79a2a3)
-- [Update 1981-09-25-somewhere-south-of-macon.md and 11-09.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e781413eb310a30d50ad2b6916608fc5b9148b1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b9fbe9f0ce22ecba8e4020424501c42003ead26c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/63f99c789ae91e4c487f3b1da326b575ef56b2d3)
+- [Update 1979-11-03-music-week.md, 1979-11-17-music-week.md, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa257704b96c989cf160aa381200b38ea6feed5c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/485a3aa236a147d6abded001d21333d5d2051521)
+- [Update 1974-11-23-124-record-world.png, 1974-11-23-126-record-world.p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e5f193c1e2fa5603ff1130733a197710cffeb6e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1b0213423d5feb1bf155caa7f42d9679a68d6b65)
 <!-- BLOG-POST-LIST:END -->
