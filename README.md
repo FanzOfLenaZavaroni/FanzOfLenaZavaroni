@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/113fbd73d2c20707ad1b601745bf8cf0d3a22a27)
-- [Update 1982-11-11-the-stage-and-television-today-fc.png, 1982-11-11-t…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a1415aae1c1970c8743e8149301432ba5ad87f4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9048adba516c9faa8f688f1c8ef52b60b46ba06e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/63f99c789ae91e4c487f3b1da326b575ef56b2d3)
-- [Update 1979-11-03-music-week.md, 1979-11-17-music-week.md, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa257704b96c989cf160aa381200b38ea6feed5c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b90340de0ebf776469b9d14d4f4127005fb61ec2)
+- [Update 1991-11-12-daily-record-fc.png, 1991-11-12-daily-record-page-1…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01c18f087257dc268703280a4054bffe25e6f96f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/225643a7961050618fbfae48e829a9a999a33c29)
+- [Update onthisday.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/268131a6426c5c14e4eef319e6f6626aaf916959)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/086d379eb126376cca099979e73bc7fca3577e39)
 <!-- BLOG-POST-LIST:END -->
