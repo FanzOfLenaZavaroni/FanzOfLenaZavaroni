@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b90340de0ebf776469b9d14d4f4127005fb61ec2)
-- [Update 1991-11-12-daily-record-fc.png, 1991-11-12-daily-record-page-1…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01c18f087257dc268703280a4054bffe25e6f96f)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/225643a7961050618fbfae48e829a9a999a33c29)
-- [Update onthisday.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/268131a6426c5c14e4eef319e6f6626aaf916959)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/086d379eb126376cca099979e73bc7fca3577e39)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7f9e6e046d71154685207f02360024b6992b1e67)
+- [Update 1976-11-15-the-royal-variety-performance.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c7db21490c6cab11f77145c98739b9a05a142a71)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/40329977e4ef254d5e80e4359c63352dfe13e395)
+- [Update 2010-11-14-sings-neil-diamond.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/abce27cc30d45587f6083ecf8292aa94ff92ded1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/65c7107133bbc8ecd303c2f55182edf206ea369f)
 <!-- BLOG-POST-LIST:END -->
