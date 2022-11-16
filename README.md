@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/713e70aadeb9597237d6f03ea5122b68afc95708)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eed3a6a324255968d1d6b049b3d8a3d3f51e8220)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d3408c026925262780307f3fde9a4e633848081a)
 - [Update 1977-11-16-heraldscotland.jpg and 2020-11-16-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2986b6e05a1d1000e425c16ba92391176988507d)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/deeb6ab2b0082a2b21953d69f9054051f0e7ab86)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7f9e6e046d71154685207f02360024b6992b1e67)
 <!-- BLOG-POST-LIST:END -->
