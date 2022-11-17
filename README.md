@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/713e70aadeb9597237d6f03ea5122b68afc95708)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eed3a6a324255968d1d6b049b3d8a3d3f51e8220)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d3408c026925262780307f3fde9a4e633848081a)
-- [Update 1977-11-16-heraldscotland.jpg and 2020-11-16-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2986b6e05a1d1000e425c16ba92391176988507d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/deeb6ab2b0082a2b21953d69f9054051f0e7ab86)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8442472b2b7dace6276a35ac370669d180d1f1dc)
+- [Update 1979-12-01-01-music-week.png, 1979-12-01-22-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4843f7f02e3bcbdab10edbb2a89db19506a0804b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ac62225133077027f5df08e41f6b45197a1e862d)
+- [Update 1981-09-25-somewhere-south-of-macon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f441749e691e4823c8a335e084f4fa7935a40bc7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a150eac65151c19b89bf20799697b6048c737917)
 <!-- BLOG-POST-LIST:END -->
