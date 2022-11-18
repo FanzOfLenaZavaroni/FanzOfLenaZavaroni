@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1620fc0b136feb57144cab74c72061a1630b9c46)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8442472b2b7dace6276a35ac370669d180d1f1dc)
 - [Update 1979-12-01-01-music-week.png, 1979-12-01-22-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4843f7f02e3bcbdab10edbb2a89db19506a0804b)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ac62225133077027f5df08e41f6b45197a1e862d)
 - [Update 1981-09-25-somewhere-south-of-macon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f441749e691e4823c8a335e084f4fa7935a40bc7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a150eac65151c19b89bf20799697b6048c737917)
 <!-- BLOG-POST-LIST:END -->
