@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2f7d2ddac903b323d7c0e1b916c31e24fadba9f7)
+- [Update 11-19.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/05432fc39f8bc8e446d5937458f5298f2e4c4a72)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99242e70d3d38524f011f13b0ad270310b1221a2)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1620fc0b136feb57144cab74c72061a1630b9c46)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8442472b2b7dace6276a35ac370669d180d1f1dc)
-- [Update 1979-12-01-01-music-week.png, 1979-12-01-22-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4843f7f02e3bcbdab10edbb2a89db19506a0804b)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ac62225133077027f5df08e41f6b45197a1e862d)
-- [Update 1981-09-25-somewhere-south-of-macon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f441749e691e4823c8a335e084f4fa7935a40bc7)
 <!-- BLOG-POST-LIST:END -->
