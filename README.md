@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3a8b27f0eac28cdba2b11737b1b1483b2981eb8d)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/41fa54e10922851e83d19221a895a68010669431)
 - [Update podcasts.md and 2022-07-05-the-william-tell-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a49f4851ebee9616e4fdbd856da2a7d8d3d85160)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03fac4601f34ffc91d14a2a2136c7d39e1ddf0d3)
 - [Update bizarre-albums.jpg, the-william-tell-show.jpg, and 3 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55a5e7e866e49891d44ecf33c6603a7da38775d2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/64687f55d5aef3ab4368e583beb0e99c0f14df38)
 <!-- BLOG-POST-LIST:END -->
