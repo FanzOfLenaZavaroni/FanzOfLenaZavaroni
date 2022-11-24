@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3a8b27f0eac28cdba2b11737b1b1483b2981eb8d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/41fa54e10922851e83d19221a895a68010669431)
-- [Update podcasts.md and 2022-07-05-the-william-tell-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a49f4851ebee9616e4fdbd856da2a7d8d3d85160)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03fac4601f34ffc91d14a2a2136c7d39e1ddf0d3)
-- [Update bizarre-albums.jpg, the-william-tell-show.jpg, and 3 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55a5e7e866e49891d44ecf33c6603a7da38775d2)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b3e53f1b3c47c782bf952589e0b9ce484ae7f4e)
+- [Update announcements.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/208017342a0e377a2c2b3c4d2ab21d2d11bbbce0)
+- [Update .gitignore, bootstrap, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5212654fc31235fa443f2e0a54be71edc50fe9a)
+- [Update 1974-alle-13-goed-deel-7.md, 1974-lena-zavaroni-star-for-milli…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b57c6881b6cdd55b9578a907cdccd0011304a3d6)
+- [Update style.scss, 140903318X-2014.jpg, and 890 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/339c2f11bfa5a96379d4589d09432800a5fa5dab)
 <!-- BLOG-POST-LIST:END -->
