@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/421b9284cf5e941fcb9024537a7bb4714645f9c1)
+- [Update 1978-04-12-record-makers.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/05d82353de98f37a21f8e9f80a7a023bd0ed3445)
+- [Update 1978-04-12-record-makers.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fa47d5240a034fe9c2a8e510d126d4f5371777c9)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e19782a7eb84afa59abb260385d674a26e4739f4)
 - [Update 1978-04-12-record-makers.md, 1980-12-13-the-basil-brush-show.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fabe07f8dc863ffd7fb2e92de6fc0c832442b007)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75af57384045cae8e9f68908bf3aa318d5186521)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ebcb9af030af286cfd28e1d98425de4a69824fff)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f98e0ebddd246ddbefd14feba0641756ccf0481d)
 <!-- BLOG-POST-LIST:END -->
