@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/585da50d6065b23f196b5a0b4f5ecb7263060455)
+- [Update the-guardian-Frankie-Thompson.jpg and 2022-11-14-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/815bb65bdee06137a00477061681e6eac27fae42)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0442c57758c242afb9c472ec435b7d5ada2daebc)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f52822acea6f2cafe96859f390eaf3f58c80741e)
 - [Update 1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/edfe599a4890f08da3fa0988a52aaf2c852475b2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/421b9284cf5e941fcb9024537a7bb4714645f9c1)
-- [Update 1978-04-12-record-makers.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/05d82353de98f37a21f8e9f80a7a023bd0ed3445)
 <!-- BLOG-POST-LIST:END -->
