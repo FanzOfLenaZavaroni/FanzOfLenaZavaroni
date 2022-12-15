@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db3cdad08c39e510039fd2a00ef14dddf4e22c2b)
-- [Update 1989-12-19-hilda-zavaroni-death-certificate.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4bea48610a8eabd0909fb4e383c648291c69fb45)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ce44ddcded990ddc124892f7b394da8ff7ff5891)
-- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/778388ca41089ead7eed727682a3359feac55c71)
-- [Update 1969c-the-3-arts-theatre.jpg and 1975-05-05-lena-zavaroni-at-t…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/60a3053c5b6721134cb7dbd9c2ad5c276d3755d6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aac3ad2facce1b73772d57c8e81370057b51812b)
+- [Update 2021-12-15-the-york-press-terry-Lena.png and 2021-12-15-the-yo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5b91549bddc04d9b70bc933b34396646f0bf09c7)
+- [Delete 1989-12-19-hilda-zavaroni-death-certificate.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c76b4acfd10df0a4f5c952a437b2d603cbf3e918)
+- [Update 1999-12-15-death-certificate.md and 2000-01-06-lena-zavaroni-w…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a111b77f3eee457baaf9f7e4ecaa7fe7a39a53c6)
+- [Update 1989-12-19-hilda-zavaroni-death-certificate.md, 1999-12-15-dea…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/91bf8fe7b0cef83e3088723e0ffbd20b88009e96)
 <!-- BLOG-POST-LIST:END -->
