@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6d9b1d6f01f44d55fd831f7265d33effcd20aa0a)
+- [Update 1974-12-30-opportunity-knocks.md and 12-30.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3bd1c6f8790cc50b25d1fb8a80fba15e19c74cc4)
+- [Update 1978-12-21-titbits.md, 1981-12-23-pebble-mill-at-one--christma…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1710c1ae85f945ed574dec08e9533165e819c9c0)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/da90fc44e556aca88bc929286268b72eb574d881)
 - [Update 1981-12-18-crackerjack.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/837449b0a1e01ba1d652962bd7fe30f9d60481d7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bcd31f128ec95744012d35b9befea67f50fa072b)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a756132684576740e0b7b930450e8813c70597f)
-- [Update 1989-12-15-hilda-zavaroni-death-certificate.jpg, 1989-12-19-hi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4b30050e0d2284f12e18ae3774a3a4ad19d18a29)
 <!-- BLOG-POST-LIST:END -->
