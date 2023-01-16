@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b1002e410dfddf6caa540d5d9a06cbedd50c4244)
+- [Update 1979-01-27-tvtimes.md and 1986-01-29-this-is-your-life.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/66ddf282e9d9bce5978a7419c516df922af2c8a4)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/525c7021f4cca872a81890bdd9a78edbfc01b88f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d79d149d21c281d4b9198064089f62230f200443)
 - [Update 1977-01-14-royal-gala-charity-fundraiser.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5d34457f7f5abc4598bdd5a539fe892ede74f6c8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc5ef86a0c58e73ca3c551e09225e4c183a4fd77)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f25c88316b68b5301058f00b3b8e79186684b84f)
 <!-- BLOG-POST-LIST:END -->
