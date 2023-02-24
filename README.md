@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-03-10-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c9fc54bb8037bf8711fd27979c0fd1ce448cd70f)
+- [Update 1974-03-09-01-record-&amp;-radio-mirror.png, 1974-03-09-02-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a171b0131839e9888891bd2a6feff28d058cb2e4)
 - [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d135c9377a6860e204123892718aff029b2185d3)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1293a94e3e0c6816933d99fff039ac4ae55fdd05)
 - [Update 1974-02-23-record-&amp;-radio-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a6e4de8725bd6ed20a4db76c02e6691ac16e5d6)
-- [Update 1974-02-23-record-&amp;-radio-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2d7c141663bd990fc31be5476c015756de2a3753)
-- [Update 1974-02-23-record-&amp;-radio-mirror.md and 1974-03-02-record-&amp;-ra…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d53f128353d65573381d72274f696fd2242c770)
 <!-- BLOG-POST-LIST:END -->
