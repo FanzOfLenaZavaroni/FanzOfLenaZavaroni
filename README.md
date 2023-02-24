@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-03-10-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c9fc54bb8037bf8711fd27979c0fd1ce448cd70f)
-- [Update 1974-03-09-01-record-&amp;-radio-mirror.png, 1974-03-09-02-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a171b0131839e9888891bd2a6feff28d058cb2e4)
-- [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d135c9377a6860e204123892718aff029b2185d3)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1293a94e3e0c6816933d99fff039ac4ae55fdd05)
-- [Update 1974-02-23-record-&amp;-radio-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a6e4de8725bd6ed20a4db76c02e6691ac16e5d6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93cafc67933f7690ecf5c96481c27e3e99dbb936)
+- [Update 1982-02-25-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5dbaea3bde9b00fae9d0004c1339bfe1c5fb9d5f)
+- [Update 1980-02-28-the-glasgow-herald.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/47fd3c7158b40b2154f08f783e0d0276b48db258)
+- [Update 1980-02-28-the-glasgow-herald.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c82ef106575bcbcd3cdda4bf3c6947e75571658c)
+- [Update 1979-02-25-charity-all-star-variety-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c8fc5b546dcf82347384a47caea6a391b24daef3)
 <!-- BLOG-POST-LIST:END -->
