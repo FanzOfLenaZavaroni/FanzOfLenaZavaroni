@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3394f4221d17d4c83777c662e2bf41854bdf8370)
+- [Update 1984-08-19-its-not-where-you-start-its-where-you-finish.md, 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c95248e96714818cceebc8d211cb0804c07627d2)
+- [Update 1985-03-03-its-not-where-you-start-its-where-you-finish.md and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0209ce4730f80d725be6c42bcc9cbe3854afe502)
+- [Update 02-28.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c807167233b39ac9542b85c3bb98cc2eeedf8fbf)
 - [Update 2023-02-28-theyworkforyou.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/acc5c95540fc9e75a79790f9d057044baa548e5d)
-- [Update 2023-02-28-theyworkforyou.md and 02-28.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/285bae3f3716458fd43dedfb519ff3fb953a5e8b)
-- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d09b40875bcb6431ba26d82ce164b04bead5fffb)
-- [Update 1996-02-29-leicester-daily-mercury.md and 1996-02-29-daily-mir…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a8c2e8c40ad11864ab26391e3a576b6c75fcdb9)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b43288156e3eb73091ea51d05a5de60907c261f4)
 <!-- BLOG-POST-LIST:END -->
