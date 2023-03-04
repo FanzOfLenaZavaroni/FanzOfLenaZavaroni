@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c21950a1eeca7cfa7436ff19a591c3864262fd6)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/45ee014c23d178a5818f848d9fc1bdfab856902b)
 - [Update 1974-03-03-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5a8cd24b677f47557d2b7c80eebb42df0d99f8f7)
 - [Update 1974-03-03-Solid Gold Sixty with Tom Browne-last-hour.m4a and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fbdd69dbc56c1a080c45313823f918c0eea09fda)
 - [Update 1974-03-03-Solid-Gold-Sixty-with-Tom-Browne.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3654f8a239f4f3d29082e0147b16ca415bd914ae)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/82c4e6d4444bf57dab3e2452295a85253c9114a3)
 <!-- BLOG-POST-LIST:END -->
