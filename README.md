@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4e1479d10fcb246dce8d0b0a26e9b789ae2b5aed)
-- [Update 2015-04-20-daily-express.md and 04-20.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/497af4ec2a2593b6aad1447b643c670ea134d48d)
-- [Update 1974-04-20-01-record-&amp;-radio-mirror.png, 1974-04-20-02-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f2bd04d6f75df28b2a75eda6ec1b36be9240331c)
-- [Update Official Singles Chart Top 40 Related To Lena Zavaroni&#39;s singl…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/21d694b455a6988995dcec3729a527bb62e51dd3)
-- [Update lena-zavaroni-at-the-london-palladium-03.jpg and 1975-03-16-le…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e4293bcbb7ee90adb3d1967c370cea0f700c9ede)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/da9e43f57e6b767690b58357f7ddf1ef4003c01e)
+- [Update 1974-03-17-Solid-Gold-Sixty-with-Tom-Browne.md and 1974-03-24-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31b5359385dfedfa5d9c3a3ccd612e3927f27579)
+- [Update 1975-03-16-lena-zavaroni-at-the-london-palladium.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/96a0346b1abf2a52a7f6e44d025e09de44b9827f)
+- [Update home.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c959d2f5da3d798ce75b7a783966f633b2d21f0)
+- [Update biographies.md, biography.md, and 38 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cede5d05f8d22c74da2fc1e279524737a145d42d)
 <!-- BLOG-POST-LIST:END -->
