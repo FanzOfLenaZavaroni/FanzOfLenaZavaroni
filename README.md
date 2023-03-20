@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fc3e6510a426cd329fb472ee4f6c3a84a691ade0)
-- [Update 1978-03-20-opportunity-knocks.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cd201141ef8b9befd10a79d5042423d50358b90e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30f73f0e88c780ca7d4efa1cc6f111ea9d39cfc6)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1b189eb64e2bcbcb20a3aaf103870e8e3a6a1569)
-- [Update 2000-02-23-the-real-lena-zavaroni.md and 2001-08-07-the-real-h…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7c03b5c0f78d99f90e92e70783e3e67774ed08d)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f9f6f6835dfeb6e4941b15dfc666a881543fbdf1)
+- [Update research.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4944e31a79700f408ee50cec28e3a6529fd3c29c)
+- [Update research.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cfd58ddeabf3784185a85fe3dff0bcdb7d772c40)
+- [Update 1999-10-01-orphaned-comments.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ab4e7f0b8d6a7f3b23e01fb97ceb0c2c17dd2ad7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a02505adb812784b4f87a29286d2f6b50a852559)
 <!-- BLOG-POST-LIST:END -->
