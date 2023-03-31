@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4ceab902b03357846bb2547c75153e14c98480b6)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bceb3fcd0842188b7ae790bb61acefdafbeb6267)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51c7afe7b53d141d95c8fc79c177613c8a9f1897)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/897c4cf6bd7a4da0549ea94f257176c10bd07d6e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e05d2c051c7aad53a80ab551f1b853f7809ccd73)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4798e40f6fc8b1ed79bf9b1f7fb0f604ae10653a)
+- [Update 2012-05-30-the-daily-record.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b7cc49a3e431460098bae6840421bf177e9c840f)
+- [Update 2012-05-30-the-daily-record.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9bf20ebacd240a4bb842f4008299ec29c5661703)
+- [Update 2012-05-30-the-daily-record.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a9d18594545431957387e58e7131ab415c0f1481)
+- [Update 2012-05-30-the-daily-record.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3583dace13579036c63a2a565e864f6ce008979b)
 <!-- BLOG-POST-LIST:END -->
