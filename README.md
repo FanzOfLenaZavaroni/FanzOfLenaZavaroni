@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c480c3a16d0b5633d687778a90da5cc834f2225c)
+- [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md, 1974-03-03-Sol…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b2c4ec9b7942b701cc49180316bf2031aa7a7c6a)
 - [Update 1974-02-14-top-of-the-pops.md and 2008-04-02-hughie-green-most…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db017ea4c7be1df0f03d3233afc1858363ad7505)
 - [Update apple-touch-icon.png, 140903318X-2014.jpg, and 144 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f962373b59aa7e63e05b5725e3b4a04f7f1fd7a7)
 - [Update Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg, Bullet-Fr…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d4a1f1e328fe3a4a5652e6504a592ac27599620e)
-- [Update 1974-04-03-joepie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/46210506949c35f3f71061591acd3718697b6f7a)
-- [Update 04-04.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c7320702537d36c19ffe8578b0a1806c7e6d8533)
 <!-- BLOG-POST-LIST:END -->
