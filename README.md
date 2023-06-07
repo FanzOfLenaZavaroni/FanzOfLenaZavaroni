@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d1be40c3aaeb82b307a1a8a8f374d62345e5c604)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e4c0ab08efb32172215b2c709d1dd8c6a7107641)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5c15922824d6d72dc4e3409b2b0a943fc3608dea)
 - [Update p0f0bknv.jpg and 2022-03-10-the-afternoon-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83ae94ea2b524cee380c685491b2b286e576a8f3)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e3450666cbef25144bdb4ecb25a0506f7232226f)
-- [Update 2009-06-01-jimmy-scott-a-songwriters-notebook.md and 1987-06-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4351883e2b1815fcb0b6a495baf24df93f82733c)
 <!-- BLOG-POST-LIST:END -->
