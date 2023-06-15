@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Update head.html, 3-arts-theatre.md, and 92 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7eb2381cb2e07e7d972cf63a480cdc46caf643ec)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06641eb6d47b1441b9463396b0d5ee68cccb92a9)
 - [Update custom-head.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c49525309776d4dfe6c700dbb7f90ff2424a9d2c)
 - [Update 1975-06-14-junior-choice.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1231b4c82bb81c579959670abeb01c59197ef0cb)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a128dde370b117b6155cee6fea3ca128c2f535fb)
-- [Update tribute-songs.md, 1975-06-14-junior-choice.md, and 2 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/59dbddf0c0e2fe2074b332b775b0893ecb1fdfa8)
 <!-- BLOG-POST-LIST:END -->
