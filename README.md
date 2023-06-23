@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6e2484b077fbc38f7e8156cb33c1b2c2d67d6d91)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bd3a6deda8e311972030681cf22210ad039b2251)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d970961042507bb0670ebda674479f3baf8f8e50)
 - [Update 1974-06-29-pink-and-tina.md and 1974-10-04-hav.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a20386ce52f4052d04b601b422f09921a74d4ca3)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c60a2c6da18ef11a5638f236a3b9942bd1e890b)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5889c20534a22f3ccf021b478f29d2817232ab20)
 <!-- BLOG-POST-LIST:END -->
