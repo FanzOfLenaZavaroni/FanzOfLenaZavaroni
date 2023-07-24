@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c11ef3ca546d2d160e192c0c498e5c4faa065e90)
-- [Update 1978-07-26-tesco-extra.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc593de61a86f2333193ffb9f24b45ba7a227631)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e640d0dd572fb990b7ae22d76b20317bf0003b7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2df08b5437406b2442a2c7ba0eadc9cf079acdf1)
-- [Update 1977-07-31-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/72baf4f8c19cbb54ae48ebd12c0f3011d094d6ae)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b8065eea40e3b2b94e58490545d6f1da96c1cc10)
+- [Update main.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/92b8204399a158da6b41f19df3c5e3d99749be9c)
+- [Update Build-and-deploy-Jekyll.yml and main.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/76af5232efd48e9120bade8fbcaf8125a29d248a)
+- [Update 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/72fb2002fae2fa9219680fba29246bbc270e57d8)
+- [Update 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1145e1fe313f23b30ca792bb3ecbdeee5137d3a8)
 <!-- BLOG-POST-LIST:END -->
