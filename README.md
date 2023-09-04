@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f197d0dd290e3272614cf7e2c9b5c5c0da5743bd)
+- [Update 1986-09-05-stars-midnight-spectacular.md and 1986-09-05-stars-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8dd1092ee18ae8ecf96bc727e10ce657442bf202)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1fd52896b996d9ef4280d80021df3f3732cb0bc9)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0df444b46a684d6d4a893aab0c6ad7a0763f6474)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ccd24a4307c2184096b4199ef96214dc18698952)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fd71cab654b11e74f518fe903f222423977154b9)
-- [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/98956060848fbcd7edb495821d1047186d01d2b5)
 <!-- BLOG-POST-LIST:END -->
