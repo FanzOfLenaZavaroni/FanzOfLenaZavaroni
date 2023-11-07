@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/883dcaea2b7aceaf97d4cf824297fa4036376d5f)
-- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ef0f3da931e857dc058dbbfe6b6c4b507ff3d0a2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f473d0952510023bf936ed2e1fec5eec5be73ec8)
-- [Update 2009-11-02-doodles-in-depression.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/40449ed7343e91f1136bfc2da289b72cdddd5608)
-- [Update 2009-11-02-doodles-in-depression.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8a595ac3e09921ebb09a6ef408d8fed28281416a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b524f095121b27cd7b65b71332382e4543395db8)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ae54863036796869e97f1c10ad416e2d3973d6b)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f39adb11881465e154ec8a8b527d81f35b2ec036)
+- [Update 1980-11-13-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d156d370f56e8d1999ebc8213f75755970b151ad)
+- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/096148abbb296daf10d95ddfaccc11f3c72312e1)
 <!-- BLOG-POST-LIST:END -->
