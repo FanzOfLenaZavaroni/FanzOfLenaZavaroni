@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/be5696d212fa25fe7701a54645571201ee6e3b94)
-- [Update jimmy-scott-a-Songwriters-notebook.webp, index.md, and 6 more …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/583d6418df0607b69258b7d13201bde36dd0cf91)
-- [Update 1974-05-24-personality-uk.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c869c433937b0b3d086efc9c4c11c0841c857357)
-- [Update post-no-title-link.html, 1979-06-25-lena-zavaroni-back.jpg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/efc45ad8c415b81f5867a20aad43a5fdb10e8f12)
-- [Update lena-tv-series.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d91d50b3a4375cff299b07c36ac06b0385f16043)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31a2c458574074ec00bccf4a11637c1b1eab9ae6)
+- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c636e7576be5f7a14d2d0983649ec36e8223955)
+- [Update home.html, october10.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/38eab1d4a2461b4cc16a19b066c40722c1b31f27)
+- [Update _config.yml, onthisday.html, and 15 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d28cf11a021a0102bbcab95f018bea3bc1888008)
+- [Update onthisday.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db0e83089e7f8cbaf1fcbb9b2be5f0500f2017da)
 <!-- BLOG-POST-LIST:END -->
