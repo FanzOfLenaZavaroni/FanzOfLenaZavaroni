@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31a2c458574074ec00bccf4a11637c1b1eab9ae6)
-- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c636e7576be5f7a14d2d0983649ec36e8223955)
-- [Update home.html, october10.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/38eab1d4a2461b4cc16a19b066c40722c1b31f27)
-- [Update _config.yml, onthisday.html, and 15 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d28cf11a021a0102bbcab95f018bea3bc1888008)
-- [Update onthisday.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db0e83089e7f8cbaf1fcbb9b2be5f0500f2017da)
+- [Update 2023-09-10-15-minutes-of-fame-a-blessing-or-a-curse.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0aa346ba89603bd6b77c6a978116baf908049cb8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/786a6d841ec8a085e8b0f89f31d9d3df984d97be)
+- [Update 1978-06-17-emma-a.jpg, 1978-06-17-emma-b.jpg, and 73 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8b4fc4404ff7a4a5e123f7b7d11f1f4ec8d958b6)
+- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/40921fb0d4e4a63cadef8d4188dd4e338ed631c0)
+- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7b1175e389ab9dc79b797cbc8fb6ebc7f36ae2a1)
 <!-- BLOG-POST-LIST:END -->
