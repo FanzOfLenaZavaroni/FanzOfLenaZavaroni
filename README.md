@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update 2023-09-10-15-minutes-of-fame-a-blessing-or-a-curse.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0aa346ba89603bd6b77c6a978116baf908049cb8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/786a6d841ec8a085e8b0f89f31d9d3df984d97be)
-- [Update 1978-06-17-emma-a.jpg, 1978-06-17-emma-b.jpg, and 73 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8b4fc4404ff7a4a5e123f7b7d11f1f4ec8d958b6)
-- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/40921fb0d4e4a63cadef8d4188dd4e338ed631c0)
-- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7b1175e389ab9dc79b797cbc8fb6ebc7f36ae2a1)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/36cd97e92fe80f2f36785e762c0e2a78e080a954)
+- [Update 1979-06-23-TVTimes.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75949420839fdad30c4e41132c4dce3b4859132b)
+- [Update 1979-06-23-TVTimes.md and 1976-07-28-bring-on-the-girls.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcde79388de4eb4eb427b4652731e491ef7042b6)
+- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a43a79469bc78f3c1a15197aaa759250d12b2ac2)
+- [Update LZ-BL-01.jpg, LZ-BL-small.jpg, and 17 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a33c6ae1dbc8a023ca51a2b586227940f542529)
 <!-- BLOG-POST-LIST:END -->
