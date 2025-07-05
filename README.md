@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba2f425f8cbaf7e88bfac81ba581cb457c862cb3)
-- [Update 1975-01-30-atuagagdliuti-grønlandsposten.md, 1980-06-20-the-be…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9b8a29bd65585e764209a0c1dee401d3d33f1597)
-- [Update 1986-07-05-holiday-startime-01.jpg, 1986-07-05-holiday-startim…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d1028d5a73bc0e98b844e4c80b173647b6dcc453)
-- [Update 1978-06-29-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c88316e710747dd5d318f692ad88110d1edddb5)
-- [Update 1963-11-04-summary-biography-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6bed6b35892c5e9dfe0bc1b7abad9ddb80faea7f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e45fbcdba1f18f228603ed942eb478e583eac729)
+- [Update 1975-07-06-the-sunday-mirror.md, 2018-03-21-shattered.md, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/150e5740e0535c33b1a95094a6972734d549f0c3)
+- [Update 1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b844c6787f877617572c9ce234f2d7f26cb7ec5f)
+- [Update 1981-07-03-the-lena-and-leslie-show.jpg, 1978-07-02-the-lena-z…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/757148272461769f6ff715b6a9c2d1daf6ab5988)
+- [Update 1974-06-29-pink-and-tina.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a177ee428a11bca32d5e77eaecdbd4df18ece058)
 <!-- BLOG-POST-LIST:END -->
