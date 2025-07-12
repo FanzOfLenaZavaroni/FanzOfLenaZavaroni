@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e45fbcdba1f18f228603ed942eb478e583eac729)
-- [Update 1975-07-06-the-sunday-mirror.md, 2018-03-21-shattered.md, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/150e5740e0535c33b1a95094a6972734d549f0c3)
-- [Update 1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b844c6787f877617572c9ce234f2d7f26cb7ec5f)
-- [Update 1981-07-03-the-lena-and-leslie-show.jpg, 1978-07-02-the-lena-z…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/757148272461769f6ff715b6a9c2d1daf6ab5988)
-- [Update 1974-06-29-pink-and-tina.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a177ee428a11bca32d5e77eaecdbd4df18ece058)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6bc8d2377b8f70638845d01b47e6632ebf460ba)
+- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/11bd7320068c8000985e16c4078e5fa50357ff7b)
+- [Update 1976-07-11-the-sunday-People.md, 1975-07-12-eastbourne-herald.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a3188d5e7069d0ba23646681af853b076a09895a)
+- [Update 1976-07-11-sunday-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/59ffe7586b8b85062e5aab7e563cf0c4701c6fcb)
+- [Update 1975-07-12-eastbourne-herald.md, 1974-07-12-sun-telegram.md, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/808a1c3b52c47f2f5a69c1bdb7acd67fbbe3bb6a)
 <!-- BLOG-POST-LIST:END -->
