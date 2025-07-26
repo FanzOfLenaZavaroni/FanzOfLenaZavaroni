@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6492d1739fa90cd2ac2d70b1efd38586555423b8)
-- [Update 1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b5678bdbf56222cac2c8a7d75ede0bb4809182cb)
-- [Update 1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/312d3b8fcaaadab2e4c1f7fe0f63022ff2571db2)
-- [Update 1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b4fed0080b5c5a4c21d7663a0a45d0e85f0cf85)
-- [Update 1986-07-05-holiday-startime.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e698194c4321d45ba27aed503517d45087155cbc)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/71994bc665853b3092bec388f48daf16af8e4e64)
+- [Update 1989-07-27-the-times-london-england-thursday-page-23.jpg, 1989…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ab84aeceb057bf740a08e691bd0783d35f27cdea)
+- [Update Gemfile, 1978-07-26-tesco-extra.md, and 1978-songs-are-such-go…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/74bcd470631d40ba2f76c682a0f3c4c00abb92cb)
+- [Update 1974-07-25-ma-hes-making-eyes-at-me-japanese.md and 1979-04-01…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8a1bb001cbd10f2be5e182fb65f4e272996aa3c)
+- [Update 1974-05-01-annual-share-boomtown party.md, 2024-03-16-notice.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a42dc907ac9df5dbc78b2858a3a4a5665397bbe)
 <!-- BLOG-POST-LIST:END -->
