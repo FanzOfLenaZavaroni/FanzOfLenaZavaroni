@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f23e7a769f58a6fa6262f2e04bda4956a82f110)
-- [Update Pavilion_Theatre,_Bournemouth_&lpar;South_Face_-_01&rpar;.jpg, D-Sides, …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b220deb40f0353e253b5b9ad1b24b4ec70083929)
-- [Update 1993-08-01-summer-praise.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/afcaa89a8a3ca5c0fa2d25c1ef17fda8cd35c17c)
-- [Update theatre.md, 1976-08-01-lena-zavaroni-at-the-pier-theatre.md, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7fa35893076cfc60be408067c6bc0a451bd1be38)
-- [Update 1993-07-31-press-information.md and 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93c83c06e2e8c0975c7248f571c24ad449b93539)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e9a33380183649fe94afeb0f8da0e7dd52f08ce4)
+- [Update 1977-hits-of-bbc-and-alaska-rec-1.md, 1978-08-11-on-broadway-w…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ef1e4449bf5c3ac6f99ac7e4562f6de63303636f)
+- [Update year-1963.md, year-1966.md, and 30 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/342bf00b36c958e1c9abfa71d02a838714a952b2)
+- [Update 1999-09-07-neurosurgery-for-mental-disorder.md and 1999-10-01-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/342a2a0b6fe7624ed7b78787e62e005dfae10f9e)
+- [Update _config.yml, post-no-comments-no-date.html, and 321 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cfb38598ee766dbd9d8ee35004e3b507e6892a46)
 <!-- BLOG-POST-LIST:END -->
