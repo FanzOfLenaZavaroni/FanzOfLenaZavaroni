@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b359335dc47c94e441993d159a64b7c0e228531)
-- [Update custom-styles.scss and 1976-08-19-the-stage-and-television-tod…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c6ff88ade0fafbf1eab31b7c4ae24ad64c736bfe)
-- [Update 1979-08-17-buckinghamshire-examiner.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e04cc18f70a9d87d8c4ca0bc3e846270bb23dc1c)
-- [Update 1977-08-16-startime77.pdf, 1979-08-17-buckinghamshire-examiner…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/02a17c3db6bb9021c283b91deb30f93944cd0470)
-- [Update 1979-08-17-buckinghamshire-examiner.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f4be72333d17ec5b12d0386c5c4ea1439bdeb9e)
+- [Update 1974-08-25-big-show-as-long-as-there-is-song.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55d8a425f70cf8bdac62ee772d7130a3e2314dba)
+- [Update README.md and 2002-08-23-the-herald-scotland.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf3d006bb38ed2f50299aecc6df5943ec54f6ebf)
+- [Update theatre.md, 2002-08-23-the-herald-scotland.md, and 5 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13523b7957938d01051ab3c37c7e78ecea3394ee)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3c2d094641ede0a91655303a3eee88f712d5f052)
+- [Update 1974-08-22-variety-magazine.md and 2018-08-22-Jezebel.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6258dab40e753718a4f533c9d8d69e5acef20001)
 <!-- BLOG-POST-LIST:END -->
