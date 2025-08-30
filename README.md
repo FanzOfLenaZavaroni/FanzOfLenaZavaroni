@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51b1ed681550e6ac3b190c0d56b709a979772c9c)
+- [Update 2021-04-29-two-hundred-percent.md, 1975-08-30-seaside-special.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34ca38ba82f794735e314fae7e27b6a460a2a86b)
+- [Update 1976-08-29-the-winter-gardens-margate-lena-zavaroni.md and 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c01e27be35de2aa2a5e2d64aaa8d99d3df6e1b5b)
+- [Update 1979-08-25-womens-own-01.jpg, 1979-08-25-womens-own-02.jpg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/df9c3160f0e748540d947156f4cf24db5cef0d43)
 - [Update 1974-08-25-big-show-as-long-as-there-is-song.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55d8a425f70cf8bdac62ee772d7130a3e2314dba)
-- [Update README.md and 2002-08-23-the-herald-scotland.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf3d006bb38ed2f50299aecc6df5943ec54f6ebf)
-- [Update theatre.md, 2002-08-23-the-herald-scotland.md, and 5 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13523b7957938d01051ab3c37c7e78ecea3394ee)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3c2d094641ede0a91655303a3eee88f712d5f052)
-- [Update 1974-08-22-variety-magazine.md and 2018-08-22-Jezebel.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6258dab40e753718a4f533c9d8d69e5acef20001)
 <!-- BLOG-POST-LIST:END -->
