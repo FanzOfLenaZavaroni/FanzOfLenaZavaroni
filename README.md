@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51b1ed681550e6ac3b190c0d56b709a979772c9c)
-- [Update 2021-04-29-two-hundred-percent.md, 1975-08-30-seaside-special.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34ca38ba82f794735e314fae7e27b6a460a2a86b)
-- [Update 1976-08-29-the-winter-gardens-margate-lena-zavaroni.md and 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c01e27be35de2aa2a5e2d64aaa8d99d3df6e1b5b)
-- [Update 1979-08-25-womens-own-01.jpg, 1979-08-25-womens-own-02.jpg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/df9c3160f0e748540d947156f4cf24db5cef0d43)
-- [Update 1974-08-25-big-show-as-long-as-there-is-song.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55d8a425f70cf8bdac62ee772d7130a3e2314dba)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a5e54e2402663b6e8b346852a4c383a5ae7e6b51)
+- [Update 1999-09-07-lena-zavaroni-underwent-neurosurgery-for-mental-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b2264f86794854cd49174576b1cbc0bf3fbf199)
+- [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93d74490713752425b89740925777a4f5b92ce67)
+- [Update 1980-08-31-the-lena-zavaroni-show.md and 1980-08-31-harold-fie…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/469136267c2ba3ae71faf7b4fd6eec5bb9eea6b8)
+- [Update 1975-08-31-the-lena-zavaroni-show.jpg, 1984-10-17-tv-am-good-m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30854e7996bd667643982ad9d9d5eb5b06d242c0)
 <!-- BLOG-POST-LIST:END -->
