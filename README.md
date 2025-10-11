@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2a04250512f25614f3672db721cf2153aad22e7b)
+- [Update 1980-10-06-an-evening-with-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34de91492e7000d9773efcd4b3df49d712d4d1bf)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dd8593ff2e0e8aa35485d18a4df44fbe833aad23)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d0e0944069f8b6e47fa091da9d421df19b5c6b3a)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/452d56a06d96568c3ce4c8b6bfd9bf7d87fe3494)
-- [Update landscape-placeholder.svg, 1963-11-04-lena-zavaroni.md, and 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c804f8ff75c95f26457751abfa54229e2735b2c0)
-- [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d333510b40b28a39eea9e3b24a0dcad320f8b17)
 <!-- BLOG-POST-LIST:END -->
