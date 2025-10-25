@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5b5a20cb961919b7a5661844fb8f0c373b5fca6)
-- [Update 1976-10-19-the-glasgow-herald.md, 1999-10-21-birmingham-evenin…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51e2cd4e29172d70b26690ef985ae68d44b487e8)
-- [Update 1981-01-10-lena-sues.jpg, the-times-london-england-saturday-oc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34fda8d1be376664f0a5b81f3e121a528a316e46)
-- [Update discography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06357a7f5698e350d777b307767e39fb3f155212)
-- [Update 2025-10-10-its-behind-you.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6eec857e234dfc0a689b17c2d62d9cbcc3a1afb3)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d1d72108280e5296e5f495dc398a831f9e880878)
+- [Update aladdin.jpg, 1985-10-26-evening-times-page-11-cropped.png, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a3efc5be459dd5b0755eb7d5bcbc94a7e565da2c)
+- [Update 1999-10-26-hello.jpg](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a8997c1a902df1e93ccfedb1e8f94181ed2dddd4)
+- [Fix description formatting and update categories](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/54f9391d4090efc5da0e39cdd113bb1e375c5c53)
+- [Fix HTML closing tag for external link](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6f7d2db2ff350e5bb79f313924ae7398880e224f)
 <!-- BLOG-POST-LIST:END -->
