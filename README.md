@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06a8f25f2a5a0d14092bbe7342e4b3a3e7edfe32)
-- [Update 1979-11-26-the-evening-times.jpg, 1979-11-26-the-evening-times…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c78241da0377751446652cb1904b7f8bbfd56085)
-- [Update 1978-11-25-bruce-forsyths-big-night.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e452bfa3f35708b6196924e992cd4927db075a7)
-- [Revise descriptions and last modified date](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2158918fffd845ff32b82a0736b45c34e40c0eb)
-- [Update article format in evening-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6d4aefc91838d6efc3dc04feb636b27bc6ba09ab)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5be5e889cf301ca48c7c28b38a6856d6045e253)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3a4b6535a07aa586288d4df288e0edfec25b8996)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6f4fb294478ad0c36ec6c04317895677dc590333)
+- [Update 1998-11-28-Music-Week-page-03.png, 1998-11-28-Music-Week-page-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c71ce23384fc88891d90a49bf25995b64b4f9ca)
+- [Update 1981-12-23-babes-in-the-wood-pantomime.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e461bb888d79a151edb75ecaacd41b964181cfea)
 <!-- BLOG-POST-LIST:END -->
