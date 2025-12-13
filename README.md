@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e613c5004f57eb275353074c948e11b39e1bfa6d)
-- [Update 1985-12-05-give-us-a-clue.jpg, the-times-london-england-monday…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/036d3623f647f9c446a0b4419268b5e6dbc483e0)
-- [Update 1978-04-12-record-makers.md and 2008-04-02-hughie-green-most-s…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58c2f7b3c41e8d01f36cfa6d2b69fe634ca26415)
-- [Update 1985-12-05-give-us-a-clue.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc9840354d240acbda790df146f8eae65c7e70d3)
-- [Fix formatting by adding clear class after crew section](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9cba693daa65cd13681aa0f094cff66f740bcf4e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5204107d1e9b32c69c87128b4b7e0c5cc83a951e)
+- [Update lena-zavaronis-christmas-party - 01.jpg, lena-zavaronis-christ…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8113b79fae8bde6c13d1cc3a91340c1ca532e6d4)
+- [Fix hyperlink reference in the Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fc19b7285f7d81d3064d49951b209ade744fbf8)
+- [Fix heading ID for comment section in biography](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f92c881aa16ecbb66cc0bcc98fc69a3e2039f45)
+- [Fix hyperlink reference in Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/897c4e9dedfa1a2da2f45a17c456ac70bf21b27c)
 <!-- BLOG-POST-LIST:END -->
