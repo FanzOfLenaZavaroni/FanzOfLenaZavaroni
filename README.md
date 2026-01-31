@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa35ba8d37df0055cc81038730ba2d14204f81bd)
-- [Update 1977-01-20-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31feea19d64928a7fb8482dc326ecee6ac506b02)
-- [Update 1977-01-20-the-stage-and-television-today-front-cover.jpg, 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5553e3b27faa5941afb6835be580dfe642eb0c93)
-- [Update header.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d4684b3b556e5aa6252d99398e72af3a8fd116e1)
-- [Update _config.yml, header.html, and 2026-01-18-announcement.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/14581ac870711cb19c66f83c99fcdb5b97642fb6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5247da49e631813e6dfe1ca41a655fc5e9302634)
+- [Update custom-styles.scss and 1980-04-23-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/beafbef2d2d0f4fb411987dc298a941b4d31ab71)
+- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/74e42eceb002d915d11a70ddd90dd49b18758cca)
+- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/508af5ab2b4fe40bc3b28c260d2b245e80d8da9b)
+- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7cee272fa92a5ee1b25a630bee586936c94c3a3)
 <!-- BLOG-POST-LIST:END -->
