@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5247da49e631813e6dfe1ca41a655fc5e9302634)
-- [Update custom-styles.scss and 1980-04-23-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/beafbef2d2d0f4fb411987dc298a941b4d31ab71)
-- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/74e42eceb002d915d11a70ddd90dd49b18758cca)
-- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/508af5ab2b4fe40bc3b28c260d2b245e80d8da9b)
-- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f7cee272fa92a5ee1b25a630bee586936c94c3a3)
+- [Update link for On This Day page to revision 5](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4d52c38774292833f6842a75f8a8bafcfd5fd10)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/faf440ba3adbda9301b18871e72a96ef877d48ab)
+- [Update 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/199254df26ccb1fbc347b9d6419c4e8ed699ec75)
+- [Update 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f8f43bab9dc49287cea0e66719ad6e604ed1f88)
+- [Update home.html and 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a66726a3ffbd0de367b5efea4238f0b4150d137)
 <!-- BLOG-POST-LIST:END -->
