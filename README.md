@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c44e5e5b8789209c7f942db847897efa85efc5a4)
-- [Update p0f0bknv.jpg, Pebble-Mill-at-One-ID.jpg, and 10 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8176cebc6fb6b2e175b982f8f5cc56a16291331)
-- [Update 1982-03-06-titbits-inside.jpg, 1982-03-06-titbits.md, and 6 mo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7bc05e41d9c29bf6ed2be2a7c9e971bf6efd6621)
-- [Update Lena Zavaroni aged 10 pictured at London Heathrow Airport to c…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4afcc9ea50c4985d3024a0ee2e3b73402725a486)
-- [Update discography.html, p08c0n14.jpg, and 12 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/691f8d4a77add9c85343e12c60c2d35aeb1ebae1)
+- [Update post.html, 07-01.md, and 182 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/308da4b90bf926f7fbac9f73c9f29004e1eaf8f3)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fdcebf9bee7481a62d7bce23241125fa02756ea6)
+- [Update 04-01.md, 04-02.md, and 89 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e5e2ceef643ac2c2379e90db545961beb9836444)
+- [Update _config.yml, 3-Arts-Theatre.md, and 100 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ecb7d45074e2730e01e274665ab8a9def8e2aac9)
+- [Update 1974-01-07-opportunity-knocks.md, 1974-01-14-opportunity-knock…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a4b4a69b20ebead95adc5be870f724d3ef998aa)
 <!-- BLOG-POST-LIST:END -->
