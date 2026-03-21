@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update post.html, 07-01.md, and 182 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/308da4b90bf926f7fbac9f73c9f29004e1eaf8f3)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fdcebf9bee7481a62d7bce23241125fa02756ea6)
-- [Update 04-01.md, 04-02.md, and 89 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e5e2ceef643ac2c2379e90db545961beb9836444)
-- [Update _config.yml, 3-Arts-Theatre.md, and 100 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ecb7d45074e2730e01e274665ab8a9def8e2aac9)
-- [Update 1974-01-07-opportunity-knocks.md, 1974-01-14-opportunity-knock…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a4b4a69b20ebead95adc5be870f724d3ef998aa)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5990b9e3e3e980fd1bf2a948428ce7bdf23b8f7)
+- [Update research.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cc49b4b5ac726cb0c084929d568b2c563138e712)
+- [Update cash-box.md, record-and-radio-mirror.md, and 30 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0b760153a9bf0d8c62cac954eeb5e46d1ee83a1)
+- [Update onthisday.html, post.html, and 41 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/68ed164fb07550863486056e441baef69e945b6f)
+- [Update post.html, 3-arts-theatre.md, and 34 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a0fac976ab431997b0f9fafea7ab25eff62497e)
 <!-- BLOG-POST-LIST:END -->
