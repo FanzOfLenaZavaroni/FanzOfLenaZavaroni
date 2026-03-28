@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5990b9e3e3e980fd1bf2a948428ce7bdf23b8f7)
-- [Update research.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cc49b4b5ac726cb0c084929d568b2c563138e712)
-- [Update cash-box.md, record-and-radio-mirror.md, and 30 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0b760153a9bf0d8c62cac954eeb5e46d1ee83a1)
-- [Update onthisday.html, post.html, and 41 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/68ed164fb07550863486056e441baef69e945b6f)
-- [Update post.html, 3-arts-theatre.md, and 34 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a0fac976ab431997b0f9fafea7ab25eff62497e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/129da9bde7be3c044dbc641c7a74323a82327abe)
+- [Update NL-HaNA_2.24.01.05_0_927-0960-groot.jpg, NL-HaNA_2.24.01.05_0_…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/539b1996b6bb0453d908f9f8c564965e7be96632)
+- [Update 2012-03-28-ginger-ninja-phil-the-brightest-star.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/87e325caf1dcded44cf89607856550cf0364b318)
+- [Update discography.md, discography-compilation-albums.md, and 40 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8a6574060d40c40c224c6223ca0469068f98675d)
+- [Update discography.html, lena-zavaroni---sheet-music---ma-hes-making-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e26caef8133181b8ccfeb5221cc857e8f6566486)
 <!-- BLOG-POST-LIST:END -->
