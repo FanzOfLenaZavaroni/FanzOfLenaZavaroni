@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/129da9bde7be3c044dbc641c7a74323a82327abe)
-- [Update NL-HaNA_2.24.01.05_0_927-0960-groot.jpg, NL-HaNA_2.24.01.05_0_…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/539b1996b6bb0453d908f9f8c564965e7be96632)
-- [Update 2012-03-28-ginger-ninja-phil-the-brightest-star.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/87e325caf1dcded44cf89607856550cf0364b318)
-- [Update discography.md, discography-compilation-albums.md, and 40 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8a6574060d40c40c224c6223ca0469068f98675d)
-- [Update discography.html, lena-zavaroni---sheet-music---ma-hes-making-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e26caef8133181b8ccfeb5221cc857e8f6566486)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e163bac9a1c0fa357ed330e9797ef8c4a1ee9bc)
+- [Update 0FFO-1974-JUN15-010-cropped.jpeg, 1974-junior-showtime.jpg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d81f41e8b99c25525f984bb09c1d74e6f6313e25)
+- [Update billboard.md, the-stage-and-television-today.md, and 38 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e52921aef82c90168c49d82f27dac299ca7e289b)
+- [Update 1981-04-02-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a24c53c1e7e84b62d2f3f0b5084e890de8374ad9)
+- [Update magazines.md, titbits.md, and 38 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/65902a2390ee2057762d052e8717eac6a72d8b7d)
 <!-- BLOG-POST-LIST:END -->
