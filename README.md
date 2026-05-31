@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99e8f8835c022fb83ef678a9acf01b1431ef29b6)
-- [Update Official Singles Chart Top 50 Positions For Lena Zavaroni&#39;s si…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cbd0e180f0a437d42bea0c52e03c26e2a35a2613)
-- [Update 1981-05-17-j.n.f.jubilee-fellowship-charity-gala-night.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f0b85608d38b15e2cff9cdf074719bc45127cd5)
-- [Update 1979-05-22-ask-aspel-01.jpg, 1979-05-22-ask-aspel-02.jpg, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ce4d4e6803ec09575bfca8f2d92040f34fcaf89d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/90913c5badc3415676f4f06f7e59d52c3cdaf499)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c0a7a74014eaa7ab93fd874157e44c75e1b53674)
+- [Refactor tribute song post layout and content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/580d87910eb44cb92376156466753ab9be3de81f)
+- [Fix category formatting in Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6fea985004b7b967c9dc2c089fd5928fb6391f2c)
+- [Modify categories and clean up content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2dcbba62fdd254de4af768ef617228b4f4e2c4fe)
+- [Refactor television post layout and content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/10045b9e869944a668415940715cad5018c25775)
 <!-- BLOG-POST-LIST:END -->
