@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c0a7a74014eaa7ab93fd874157e44c75e1b53674)
-- [Refactor tribute song post layout and content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/580d87910eb44cb92376156466753ab9be3de81f)
-- [Fix category formatting in Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6fea985004b7b967c9dc2c089fd5928fb6391f2c)
-- [Modify categories and clean up content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2dcbba62fdd254de4af768ef617228b4f4e2c4fe)
-- [Refactor television post layout and content](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/10045b9e869944a668415940715cad5018c25775)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/19eca8247da967e0842aa422d814a5eeb6dd034b)
+- [Update 1974-05-01-annual-share-boomtown party.md, 1974-05-01-annual-s…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ecaa3e2adae3d9c2f9923e565ef088dceb5f48c6)
+- [Update 1974-06-09-official-singles-chart.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d03ba4342547f3f3cf8dc60c7bb3ced4eaea8289)
+- [Update publicity.md, 1979-06-04-postmark.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9983a3e698d4c6dbd88aa448c2bd0fabe4a61808)
+- [Update 1975-06-14-Junior-Choice.mp3, 1975-06-14-Junior-Choice.ogg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/89b3147c61fd0f9c19525510bd23edfaf38dcbad)
 <!-- BLOG-POST-LIST:END -->
