@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/329073f5caffc22e179729594411e4892ac71bfc)
+- [Correct formatting for Lena Zavaroni entry](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8029dfa315746ac9f1f32dc2b5167183779cc7c7)
+- [Update podcast entry for Lena Zavaroni](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d812663bfb48a529c2a220459dd1db5083814f81)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/593710e4bd2bf909672eb7b4a7367d63b60c1858)
 - [Update 1978-06-24-lennie-jerry.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea371b9c53a4dcf19e6cf3fb2f1624db6ef33b05)
-- [Update emma.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/466d4d904e774adc02cda2567e096f0addc7ae55)
-- [Update emma.md, 1978-06-17-emma.md, and 21 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/96746ea26812baf31fd22d424e5a8e6712f8807f)
-- [Clean up layout elements in magazine story](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c2e937e4c6556a2004beb061cc2a5e1e003faf17)
 <!-- BLOG-POST-LIST:END -->
