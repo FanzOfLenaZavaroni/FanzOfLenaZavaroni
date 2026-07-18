@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/854a552a6d6bf00a1e97468ec19ea600444bb393)
-- [Update ma-hes-making-eyes-at-me-japanese-back-cover.jpg, ma-hes-makin…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1e9ca74844ff85f8c04104dbcbdabf236bc3f60f)
-- [Update 1976-07-15-the-grand-prix-night-of-the-stars.jpg, 1975-07-16-e…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0b9eaf91b804a0db8a9aa8f1af6ef687620d844)
-- [Update 1998-07-06-ruby.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e487f813cac08d55005c09e4e7aa80c935f8a381)
-- [Update 1998-07-06-ruby.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8484c6f5e70a1cbcdf8789b996b15f92bcf513e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ec9fb8550ca0d2d83245305d3d906ed0cc5bf5dd)
+- [Update 1974-07-17-nieuwsblad..md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ec0451d62376e41ebf2bd0d963884b6924c40c82)
+- [Update post.html, comic.md, and 41 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bffe51850ac7454458e2755b64753687950db2af)
+- [Update 1975-07-19-music-week.md and 1976-07-15-the-grand-prix-night-o…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3231863f330c3a498d05408a0734d5ed7a8235a1)
+- [Update 1976-07-18-lena-zavaroni-at-the-futurist-theatre.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/095982b86b0411ee7bb9c60ef6cd25a3920575c1)
 <!-- BLOG-POST-LIST:END -->
