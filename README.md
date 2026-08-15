@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/71c92950f438fa98d4203778b76c5bce30ed3a26)
+- [Update 3-arts-theatre.md, Thames.md, and 27 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7fc562ff2243870b82f155dff363b7010b057955)
+- [Update post.html and the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2fa80f553d90fc586b71b1c1092ba2b737647716)
+- [Update 1975-08-10-the-lena-zavaroni-show.md, 1975-09-07-lena-zavaroni…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/70fc3854ec0326b80ff7ac9bc7e296ac8c8c18bd)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/feb14d84b27325c1e948be9adcd20cbc285c0de0)
-- [Update 1978-08-13-presenting-lena-zavaroni.md and 1980-07-27-the-lena…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5beea95bfe8a510ea68fe6cf76f59214b588af43)
-- [Update 2002-08-08-bbc-news.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/90ddfd22ba9ed04739b7608e92db1d1bd9c50b5f)
-- [Update categories in BBC News post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7d2852067bdf7286132d89f8507b0d0ab9db77a9)
-- [Update post.html, going-nowhere.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c6c3ef4c5a20f0b7d65e6b0d2b681ed78d12422c)
 <!-- BLOG-POST-LIST:END -->
