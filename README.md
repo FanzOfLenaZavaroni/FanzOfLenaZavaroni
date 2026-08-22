@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/71c92950f438fa98d4203778b76c5bce30ed3a26)
-- [Update 3-arts-theatre.md, Thames.md, and 27 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7fc562ff2243870b82f155dff363b7010b057955)
-- [Update post.html and the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2fa80f553d90fc586b71b1c1092ba2b737647716)
-- [Update 1975-08-10-the-lena-zavaroni-show.md, 1975-09-07-lena-zavaroni…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/70fc3854ec0326b80ff7ac9bc7e296ac8c8c18bd)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/feb14d84b27325c1e948be9adcd20cbc285c0de0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5b95143c3cd84d79a755d36de06fc1ea87f3a37)
+- [Update bonnie-langford.md, dougie-squires.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f96258c4889a35c60d7a51e314d719c004aff8cc)
+- [Update home.html, 1999-10-01-lena-zavaroni-death-certificate-front.jp…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a897860d021f605c96b7116b7ce3e684a833f728)
+- [Update post.html, discography-sound-postcards.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e398ea9dd654cc2ad30807b8d0d431aa0c7bb51)
+- [Update birth date for Dougie Squires](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dda9a8b0f73d37d5661a3984c0a05883b6b8cab7)
 <!-- BLOG-POST-LIST:END -->
