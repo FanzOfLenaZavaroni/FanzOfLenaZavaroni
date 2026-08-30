@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5b95143c3cd84d79a755d36de06fc1ea87f3a37)
-- [Update bonnie-langford.md, dougie-squires.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f96258c4889a35c60d7a51e314d719c004aff8cc)
-- [Update home.html, 1999-10-01-lena-zavaroni-death-certificate-front.jp…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a897860d021f605c96b7116b7ce3e684a833f728)
-- [Update post.html, discography-sound-postcards.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e398ea9dd654cc2ad30807b8d0d431aa0c7bb51)
-- [Update birth date for Dougie Squires](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dda9a8b0f73d37d5661a3984c0a05883b6b8cab7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/215e41dfeaec49a06888a9fdc9ac15acd3bb7921)
+- [Update post.html, 4951692.avif, and 26 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ca9ec643695336290261a0c7387445bc6f6f3908)
+- [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83dfd186cade1eb8a1133deb3df9814127cfbbe9)
+- [Update 1975-08-30-seaside-special.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1043d67b5e7096827d65f3ceaf44d72052bb400c)
+- [Update 1975-08-30-seaside-special.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e750b5db6fe2a869cf853c7eded4d78e8ae1cc8a)
 <!-- BLOG-POST-LIST:END -->
