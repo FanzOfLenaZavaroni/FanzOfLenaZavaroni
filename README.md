@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bfdd8b02931c8315d39eb82195c69a518b82a7dc)
-- [Update concert post details and formatting](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/754aa63ef66f7ca5b156139394f7c4406a33801a)
-- [Update books.md, fundraising.md, and 7 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a3ebdd79f4a263bccfc0328f5da3c1339bdae062)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/215e41dfeaec49a06888a9fdc9ac15acd3bb7921)
-- [Update post.html, 4951692.avif, and 26 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ca9ec643695336290261a0c7387445bc6f6f3908)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c91e536d92e6e77153b36e03d233b1bcbac16260)
+- [Update discography-sound-postcards.md and 2023-09-11-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6d7caeb098479961cf6d814986692ab9ea4f3896)
+- [Update discography-sound-postcards.md, 2023-09-11-demis-roussos-lena-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d054f4226d6cfccf2e71790a393421505fe1ea97)
+- [Update discography-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cae571a4d5c287865a85b7c4e105bad53dad2571)
+- [Update discography-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7ce866868b9488b1c1d701eee852c6f1f20562db)
 <!-- BLOG-POST-LIST:END -->
