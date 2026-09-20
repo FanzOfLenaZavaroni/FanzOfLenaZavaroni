@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c91e536d92e6e77153b36e03d233b1bcbac16260)
-- [Update discography-sound-postcards.md and 2023-09-11-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6d7caeb098479961cf6d814986692ab9ea4f3896)
-- [Update discography-sound-postcards.md, 2023-09-11-demis-roussos-lena-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d054f4226d6cfccf2e71790a393421505fe1ea97)
-- [Update discography-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cae571a4d5c287865a85b7c4e105bad53dad2571)
-- [Update discography-sound-postcards.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7ce866868b9488b1c1d701eee852c6f1f20562db)
+- [Update 1978-09-20-london-evening-news.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb2a7185426ebc969da2861fae31c095d5c97397)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9672adb1e61f6eaec07b0d8045557aab72822f86)
+- [Update 1978-09-20-london-evening-news.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/876692e3caf4beb42023081d9deb63c01e45fc07)
+- [Update _config.yml, discography.md, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bbd24b7f06565eb807b27277c6f9d03f3a2b7350)
+- [Update 1975-09-15-huddersfield-examiner.md and 2022-09-15-in-perfect-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f486ee5dbca43cc5a30a8236e8cd72737bfdaf5f)
 <!-- BLOG-POST-LIST:END -->
