@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-09-20-london-evening-news.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb2a7185426ebc969da2861fae31c095d5c97397)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9672adb1e61f6eaec07b0d8045557aab72822f86)
-- [Update 1978-09-20-london-evening-news.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/876692e3caf4beb42023081d9deb63c01e45fc07)
-- [Update _config.yml, discography.md, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bbd24b7f06565eb807b27277c6f9d03f3a2b7350)
-- [Update 1975-09-15-huddersfield-examiner.md and 2022-09-15-in-perfect-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f486ee5dbca43cc5a30a8236e8cd72737bfdaf5f)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a2a89b121ed7bc5b2975c51af00dec44934190d)
+- [Update 1982-09-26-the-lena-zavaroni-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/70ee6b95e7b68d8eb35e1ff68e81ebe58180dfc2)
+- [Update details for The Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ff823d4866d86596963875a720ddd6f26447aee7)
+- [Update categories for Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/88d12d2674163cd2a05839b0790523ba7defbb06)
+- [Update discography-promotional-discs.md, 1979-11-09-somewhere-south-o…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d7ab81fc888dd7b75aa45ea3e08163f1bed808ea)
 <!-- BLOG-POST-LIST:END -->
