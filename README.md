@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a2a89b121ed7bc5b2975c51af00dec44934190d)
-- [Update 1982-09-26-the-lena-zavaroni-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/70ee6b95e7b68d8eb35e1ff68e81ebe58180dfc2)
-- [Update details for The Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ff823d4866d86596963875a720ddd6f26447aee7)
-- [Update categories for Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/88d12d2674163cd2a05839b0790523ba7defbb06)
-- [Update discography-promotional-discs.md, 1979-11-09-somewhere-south-o…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d7ab81fc888dd7b75aa45ea3e08163f1bed808ea)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ff1547a42f74792c25254b8da31f9cd9ea679769)
+- [Update 1999-10-05-this-morning.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/854e793f59f7809a885118ef13b2ca4c715a8426)
+- [Update post.html, hev-01-cover.jpg, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0d62c6cb623c9dfdd3f4c2a60e0924f2dc9e7190)
+- [Fix link reference for Belfast Newsletter article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c2c8d1419b70f3631fc8b44b5afbdc9c11bf2d60)
+- [Update 1999-10-02-media-news-on-lenas-death.md, 1999-10-04-The-News-L…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fb596f4ace01b1de28ac3e32fa21884ea4bcc4d8)
 <!-- BLOG-POST-LIST:END -->
