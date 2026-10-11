@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ff1547a42f74792c25254b8da31f9cd9ea679769)
-- [Update 1999-10-05-this-morning.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/854e793f59f7809a885118ef13b2ca4c715a8426)
-- [Update post.html, hev-01-cover.jpg, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0d62c6cb623c9dfdd3f4c2a60e0924f2dc9e7190)
-- [Fix link reference for Belfast Newsletter article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c2c8d1419b70f3631fc8b44b5afbdc9c11bf2d60)
-- [Update 1999-10-02-media-news-on-lenas-death.md, 1999-10-04-The-News-L…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fb596f4ace01b1de28ac3e32fa21884ea4bcc4d8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2bec681dbfa964460b6aa6727d64f6df1ab4b160)
+- [Update 2025-10-10-its-behind-you.md and 2025-10-10-its-behind-you.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/113463b4582329a13732903181b3eb8c10cc580c)
+- [Clarify description of &#39;Turn&#39; in performance](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/86c880d5c1722ea7adb6648f09e574f654d29cbc)
+- [Update performance details and contract information](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4924ccc8e38deefbb391140e3b97d0942d414685)
+- [Fix punctuation in tribute song descriptions](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f269455cff390126c35df7afe65ab5c8f2201e5)
 <!-- BLOG-POST-LIST:END -->
