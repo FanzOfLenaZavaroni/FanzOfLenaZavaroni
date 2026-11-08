@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/17cc302510dd60e4e7471b6763c130e6e7814807)
-- [Update categories.md and 1984-10-31-grand-order-of-water-rats-celebra…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d40b7dadf1dc0c56bd95855991f805233a436086)
-- [Update album post with categories and layout changes](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc34acc14d8707c589c1c76fc4f1e05dd034d451)
-- [Update categories.md, blogs.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa9592806ab5347b36d1ad8f150c28f1b12ea0cd)
-- [Update biography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d91b107f9ce498244350e1f5a89be230db495c22)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7bcc0639086a0e3993f2540e4feb4488474b4d54)
+- [Update 1991-11-12-daily-record.md and 1982-11-11-the-stage-and-televi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f3b28c3d0f480ca9fca63ef7bed1f44a05614479)
+- [Update 1982-11-10-het-parool.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/701b3f1cb4961584047c67f3e21226ea9581bbab)
+- [Update 1976-11-10-daily-record.md, 1976-11-10-the-daily-record.md, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/91a6e74a08db6e944ea1c0ccdd7ddc16ba1e134f)
+- [Update categories.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d8a2ca2c93b5583cf3cf7401c3d94be99e03401a)
 <!-- BLOG-POST-LIST:END -->
