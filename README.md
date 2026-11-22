@@ -19,9 +19,9 @@
 ### Recently Commented Files
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea669c72f1eed8d21a05d206ee2f110ff45cb1d1)
-- [Update 2022-09-18-memory-mobility-and-material-culture.md, 1979-11-17…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d9eca9289a9fd78c1cbc01c09524fd3c7513e84)
-- [Update 1974-04-ma-hes-making-eyes-at-me-uk.md, 1974-06-ma-hes-making-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/df8197379e962075d23ed91c49add3de50d2f6b2)
-- [Update discography.html, ma-hes-making-eyes-at-me.md, and 7 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b263f6a6a4c0d3b379fa425791debcdc8087cf07)
-- [Reset Comment History](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ef8beba0b60cbbb34d00be2e8532a9a50c4a6cd)
+- [Update cron schedule for workflow cleanup](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09b54bb37d9533eff9f81472c66bde61e81837f6)
+- [Change cron schedule for README update workflow](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/787acc69caeba56bd6814ba8af6da1fe5e505f39)
+- [Change cron schedule for workflow cleanup](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ccaa0b2ccfc8d5b7569f68094509bb4d505eeed)
+- [Update 1978-11-24-the-evening-times.md, 1979-11-26-the-evening-times.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1b659a5689634648297c97d814399e1d76233d36)
+- [Update 2020-05-23-d-sides-orphans-and-oddities.md, 2025-06-03-my-70s-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4890742febc1e3ea88e67dbf21704763037084cc)
 <!-- BLOG-POST-LIST:END -->
